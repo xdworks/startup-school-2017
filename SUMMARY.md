@@ -12,4 +12,5 @@
 * [Live QA - II ](live-qa-2.md)
 * [How to Invent the Future I](08.md)
 * [How to Invent the Future II](09.md)
-* [How to Think About PR](10.md)
+* [How to Find Product Market Fit](10.md)
+* [How to Think About PR](11.md)
