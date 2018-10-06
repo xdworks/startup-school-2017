@@ -1,435 +1,291 @@
-- 大家好。今天的节目现场 我们有幸邀请到了Adora和Avichal。先让他们自我介绍吧。我是Y Combinator合伙人之一。曾是Homejoy创业公司的创始人兼CEO。大家好，我是Avichal Garg。我是YC专家。不久前我在Facebook担任产品总监。我创立了一些公司，也卖掉了一些，也投资了一些。你好，Adora。很高兴见到你。
-
-- [Avichal] Avichal，你也是。很好，欢迎你们。那么，告诉我你们做的是什么呢。
-
-- [Angela] 大家好，我们正在研发Atmission。这是一款web应用程序，可以提供高质量，个性化的高校报考咨询，专门针对高中学生。原来如此，是一对一人工线上服务么？你能通俗地解释一下用法么？同学们可以免费注册，然后建立个人主页。个人主页里面包括学术信息，比如GPA和考试分数，也包括课外活动，还有目标大学。比如他们想上哪所大学，对哪些专业感兴趣。一旦他们录入这些信息，系统就会生成一个算法，从而为他们提供个性化的选项。帮助他们达成目标。
-
-- [Avichal] 明白了，目前受众包括哪些人，或者说你们的目标群体是谁？高中生和他们的家长。
-
-- [Avichal] 具体是谁呢？那些负担不起私人大学报考咨询的家庭。因为每套私人咨询服务 价格从四千到四万不等。
-
-- [Avichal] 明白了。为什么他们需要这款应用呢？因为，在美国公立高中，一位顾问每年需要为491位学生提供服务，平均每位学生仅有38分钟时间 获得大学报考建议。我们想要弥补这一不足，让学生都能得到充分的建议。我们认为每位学生都值得帮助，他们需要上大学。
-
-- [Adora] 有没有那么一个具体的点 是他们真正需要帮助的？因为我一直在想：人们会为论文去买各种指导书。这款应用它本身，是非常客观和程序化的，是吧？因此，你是否觉得会有那么一个特定的点，是人们一直想要的，是值得他们花钱的？
-
-- [Angela] 这点很有意思。刚开始，我们几乎只想吸引更多的用户。我们谈论文，谈大学选择，但最近我们和一些用户进行交流时，才发现他们其实想要一对一交流。特别是大学选择和论文这两个问题。
-
-- [Adora] 那么你们已经开始招募相关人员了？刚开始的时候，我们仅仅依靠我们自己。我们在后台服务。刚开始我们在学校的时候，和导师Enton交流了许多，我们也收到了用户的反馈，得知他们想要一对一交流。因此，上周我们团队花了三十个小时，去筹备并推出了这项服务。情况如何呢？
-
-- [Angela] 比我预想的要快。在过去三天内，大约800人访问了我们的网站。我们和约60位顾问签了约。目前关于顾问人员，我们首先着力解决供给侧的问题。
-
-- [Adora] 你们已经有60位顾问了。也正在努力招揽这些人。你觉得是否足够了？现在。
-
-- [Adora] 似乎是足够了，因为...... 怎么了？好了么？不用也可以。这会让它更好么？
-
-- [Avichal] 之前没有这种情况。
-
-- [Adora] 好了么？好了，抱歉出现这种情况。嗯，供给侧问题。你们签约了60位顾问，看来已经蓄势待发了？
-
-- [Angela] 是的，准备好了，但是接下来我们还需要对这些顾问进行审查，确保他们资历合格，质量较高，并有自己的专长。这样我们才可以依靠他们吸引学生。为什么现在才这么做？五年前就应该如此了吧。是不是某些环境变化 使得这成为可能？
-
-- [Angela] 我觉得我们这个行业，与其他以消费者为核心的行业相比发展更为缓慢。我之所以觉得现在时机成熟，是因为现在学生和家长们可以在学校利用更多的工具 和技术去学习。比如个性化和协作性学习，我觉得这一点还未被充分发掘利用。
-
-- [Avichal] 为什么呢？我想这是因为人们通常非常重视指导。他们为了取得好成绩，花费大量精力。并且他们坚信，是否能进入大学仅仅取决于 朋友和家人。
-
-因此他们十分依赖来自朋友或家人，或所谓"过来人"的建议。但我们想做的：是帮他们从专业的视角进行分析。这似乎需要大量的信息，大量的信息，人们可能也在努力 寻求不同的方案。因为，互联网的存在使得我们和其他人一样 都能获得相同的资源。因此，有人告诉你如何去优化选择 而不是仅仅依靠那些读物，就显得很有意义了。这样吧，我想了重点解一下，你们目前最大的挑战在于 如何匹配，是吗？现在你们有60位顾问，你是否觉得，他们已经具有足够的资质可以开始匹配了呢？
-
-- [Oliver] 部分如此。
-
-- [Adora] 那么，你们准备，或者说，在影响你们将这些顾问进行匹配的因素中最重要的是哪些？
-
-- [Oliver] 在众多关注的因素中，有一点我们可以确定，那就是 我们的顾是否经过认证或取得相关证书。因此，几天前我们才开始招募，我们准备 重点审查已经收到的简历，并且和顾问们沟通，弄清他们是否取得相应证书，是吗？
-
-- [Adora] 你本人就是顾问么？是的。
-
-- [Oliver] 她是。
-
-- [Adora] 你也会在网上作为顾问？我意思是你也会接到一些客户 去解答他们的问题吗。是的，我很早之是这样做的。我有私人客户 他们只想和我进行私下交流 我们觉得这是非常有意义的。但我已经不做这个，不再亲自提供顾问服务了。
-
-- [Avichal] 这其实是有很多风险的。我之前也经历过。我想继续说一下 关于这一点的市场风险。我第一次创业也跟教育有关，因此对于这个领域我有所了解。有个问题一直都存在，那就是 在美国，普通大众 看待高校和招生的方式 和今天在座各位 看待高校和教育问题的方式 大相径庭。这从根本上取决于，你到底是将教育视为一种投资 还是仅仅把它看做是一种支出。很多领域都是如此，你努力完善自己，但最后还是发现，市场反应和你的所作所为并不一致。因此，这需要企业迈出一大步，但很多时候他们很难做到这一点。因此我开始就这一问题进行调查。市场自身可能已经发生改变。你是否确定人们所期待的 和你想要的是一致的呢？庞大的市场 足够支撑起这一项目。
-
-- [Anglea] 事实上，最近确实有所转变 我认为这也给我们带来了机遇，那就是新一届的政府。因为大家正在讨论 削减一部分资金以支持公立学校。所以我们认为 他们的资源将会越来越少。我认为这可以 给学生和家长们提个醒。并且将会刺激他们对于报考咨询的需求。
-
-- [Avichal] 明白你的意思的，但是他们目前还未意识到这一点。是的，他们认识还不很充分。
-
-- [Adora] 他们拥有什么资源呢？有指导书，还有像vault.com这样的网站，但后者不再提供这种咨询服务了，我记得。
-
-- [Avichal] 是的，的确如此。
-
-- [Adora] 那么他们现在可以利用的有哪些呢？
-
-- [Angela] 还有很多其他免费的网站 比如 college board，比如Check，还有很多不同的网站 可以为他们提供详细的高校介绍。包括报考比率以及其他相关信息。但这些都不具有针对性和个性化特征。当我们进行用户采访时，发现他们总会不由自主地 把所有这些网站浏览一遍。
-
-- [Avichal] 你们采访对象是谁？或者说你们在哪找到他们的？我们的邻居。还有朋友们的孩子。基本上都是一些我们认识的人。
-
-- [Avichal] 那好，我们就这点讨论一下。我认为这是教育市场上 最大的风险之一，这个宏观市场整体的 反应或者表现会不同于 你们所认识的那些人。这可以得到验证，你去问那些人，他们需要什么 而你们又想为他们提供什么。他们的需求 对于早期至关重要。你的邻居，对于教育这一问题的看法 很可能和你们类似。包括你朋友们的孩子，也是如此。
-
-- [Angela] 这就是为什么我们从开始到现在 一直试图将不同的观点整合后放到网上 看哪一个更引人关注。目前我们可以确定的是 一对一个性化交流是非常重要的。下一步，我们还想 深入到更具体的问题，从而集中解决它。
-
-- [Avichal] 你们是否考虑过 国际市场呢？这个问题仅存在于美国 还是全球都有？
-
-- [Oliver] 我们考虑过这点。刚才我们提到，确实存在国际市场的 可能性。你知道，目前我们所推出的平台 仅仅针对美国。但这并不会限制我们 开拓更多市场。
-
-- [Avichal] 你们有没有考虑过 先在国际市场上推出呢？而不是先在美国？
-
-- [Oliver] 我们的首要对象是美国。这是我们关注的中心。实际上，我们的网址就是atmission.us 这点你们知道。确实，我们也知道在许多除美国之外的国家，也有很多人 想来美国学习。他们同样需要这些信息。我们也和国外的顾问交流过。需求确实存在。但我们没有...... 针对这些市场。
-
-- [Adora] 现在你们网站有多少用户了？大概200名学生。
-
-- [Adora] 200名，他们是哪些地方的，有什么共同点？40%都是高中生，这意味着他们是等到最后时刻 才开始关注这件事。25%是初中生，他们大部分都很关注计算机科学，工程，数学，和商科等专业。
-
-- [Adora] 听起来似乎你想做的 和我认为Avichal 也正在做的一样，都是努力指出什么是他们 实实在在需要的。而不仅仅是，跟他们说"我将帮你挑选一所大学"，这听起来有些抽象。这可能和论文一样简单，"我论文需要帮助"。然后集中解决这些需求，也便于理解和接受。而不是 同时处理很多问题。Atmission的根本目标在于 为所有的学生 提供同样的上大学的机会。我们知道，在加利福尼亚，或者其他大城市，那儿的学生受教育程度更高。他们清楚怎样可以进入大学。除此之外，我们想做的，你知道，我们的目标，是确保其他的学生，那些加州之外的学生，也能得到相同的信息。我的意思是，你想，通过调查或者和用户交流，我们发现，其实许多学生认为 他们根本没有上大学的机会 因为他们承担不了那些费用，对吗？事实上，他们还有选择，比如助学金或类似的政策。这也是我们正努力实现的目标。确保他们可以 了解到这类信息，这样就可以知道自己至少是有机会 申请进入大学的。也许，你知道可以申请助学金，也知道如何申请。
-
-- [Avichal] 我想解释一下 我对Adora所讲的理解。我也很欣赏你刚才所说的那些。那是一个了不起的目标，对吗？一个公司需要这样的 目标，这样的愿景。当我们实现了这个目标，我们的世界将会由此不同。但这需要战略，需要知道怎样，简而言之 知道怎样实现这个目标。然后才是具体做法，这需要你们周复一周地努力 去探索你们的战略 并检验这一战略是否正确。我认为Adora所提供的 就是战略层面的建议。不错，那是一个了不起的目标，但你们从哪儿着手呢？你们能为大家带来的第一个好处是什么，然后才是第二个，第三个。最后为大家 带来了所有的好处，但你们从哪儿开始呢？试想一下，如果你正在申请一所大学，需要进行许多步骤，但你又不能处理好它们。找一个遇到这些问题的，或者最需要帮助的人。这也正是他们愿意为之花钱的地方，因为很明显，你们是在 经营一项生意。
-
-- [Angela] 是的。
-
-- [Avichal] 这不仅是，抱歉打断一下。这不仅是产品战略，还是面对市场的战略。也就是说，有许多人，是吗？有多少呢，大概50%的人将参加SAT考试？是的，但这也意味着另一半人 根本不参加这一考试，是吗？这么大的受众群体 每一步都是如此，因此目标群体也应该是你们战略的一部分。你们针对的对象 会直接影响到你们在一开始 能为他们带去什么。
-
-- [Angela] 是的，我认为这些都是很棒的建议。在最开始的时候 我们有许多角度可以关注，我们想利用用户数据 想通过用户 找到最应该关注的地方。我认为早期的用户数据采集 是非常困难的。我们用户不够，反馈不足。不知道他们想关注哪些领域。部分早期数据显示是选择学校和论文。这两个是我目前可以确定的。至于专业，则包括科学、数学和商科。这是三个主要的专业。这些零星的信息，可以为我们指明发展方向。我很清楚，要想取得进步，就需要集中关注一个具体的领域。但我感觉数据不足，难以达到这个目标。
-
-- [Avichal] 嗯，数据方面的困难，这又回到...... 有两种方式可以帮助你们 明确你们想要的东西。你们的市场，针对市场的计划，还有产品。是"自上而下"的思维方式。这就是说，你们得到一堆数据，想知道哪里有机会，怎样划分市场。从这儿到那儿，再到其他地方。但如果"自下而上"呢，你先做好这个，然后让人们去使用它。如果他们觉得这就是他们想要的，那你们就进步了。在软件行业中，"自下而上"是很好的方法。那些走在前面的人 将决定世界去向何方。一旦你们为他们建立起 其他人也会追赶上来。比如社交网络 明显就是一个很好的例子。但问题在于，那些率先使用你们产品的人 并不能代表 所有人的想法。那么你所建立的 就不一定适用于所有人。我想这也是你们 目前遇到的挑战的一部分吧。如果是，那我相信 你们已有的用户 并不具有完全代表性了。听起来似乎你们谈论的是 两种不同的人。那些不了解助学金的人 可能会放弃申请上大学 也不会做这一系列事。那些得不到支持的人，不像那些对这有所了解的人，后者更关注这些事。这对我来说就像两个不同群体的人。好了，我认为我们该结束了，但最后还有一件事。似乎有很多人 在你们这儿进行咨询，我就从这个点开始吧。你可以和他们坐下来聊一聊，就做这一件事，持续下去，我不确定，持续几个月？然后看看人们的问题 有没有共同点。同时，你还有60位顾问呢。跟他们，你同样可以这么做。这在做起来可能非常困难，但似乎能够指明你们该从何处着手，这应该是个办法。
-
-- [Angela] 谢谢。
-
-- [Avichal] 谢谢你们。
-
-- [Avichal] 你们好。
-
-- [Sid] 我是Sid.
-
-- [Adora] 我是Adora。
-
-- [Zach] 你们好，我是Zach。很高兴见到你。
-
-- [Adora] 很好，感谢你们的到来。
-
-- [Sid] 你们从事什么呢？
-
-- [Sid] 我是Sid，DeEmbo的CEO和创始人之一。我们在DeEmbo研究计算机视觉技术 以解决在家庭服务市场中的 价格和成本估算问题。具体而言，我们是从搬家行业开始的。假如你是客户，想要搬家。你想知道这会花多少钱。那么你可以录制一个视频，我们的技术能够识别你家里所有东西。然后你就能得到一个准确的价格，做到心里有底。这就比 给不同的搬家公司打电话，每家谈上半小时才得到一个大概的报价 要好很多。在家就可以进行在线估算。
-
-- [Adora] 这是一款APP？我们...... 当然。我们有不同的渠道。我们在APP上做了MVP试点。我们也曾 直接把它 挂在搬家公司的网站上。
-
-- [Adora] 也就是说，我在家里，只需要打开APP，拍下照片？然后发给你们？你们就能尽快给我一个预估价格。好。
-
-- [Zach] 是这样的。还有一种方法，你可以把它们的数字编号发送给我们。但背后所运用的技术都是一样的。
-
-- [Adora] 这样更准确一些，你们目前准确率有多高？有人使用么？
-
-- [Sid] 我们目标是将两者准确性做到一样高。我们是这样想的，目前，整个估算过程大概需要一周时间，你才能得到一个报价 甚至多个报价 但你并不清楚这些价格是怎么来的。因此，我们的目标就是 为你提供一个完整的费用明细。因此我们后台还是需要人工 去解决AI造成的差错。我们目标是将人工时间 减少到五分钟以内。
-
-- [Avichal] 为什么需要这么长时间？为什么要等一周才能得到报价？
-
-- [Sid] 是的。
-
-- [Avichal] 搬家公司将这么长时间花在哪儿了？
-
-- [Sid] 呃...... 主要原因在于，假如你预约了现场估算。那么每次估算会花费 搬家公司超过200美元。而且你还需要将一切安排妥当，以方便别人来估算。这些估算人员每天能做两到三单。特别是在夏天旺季，他们真的很忙。因此绝大多数搬家公司 都不提供现场估算服务。仅仅通过电话提供报价。我们的调查显示这些90%都是不准确的。客户只能在不同的公司咨询。但他们还是不清楚 搬家公司的报价是怎么来的。因此，一些无良公司 就利用市场的这一不足占尽便宜 这种情况并不少见 他们先给你一个很低的报价，将生意揽到手。然后等你搬家那天，在最后时刻索要高价。我们想要消除这种现象。
-
-- [Adora] 你们报价之后，是自己去提供搬家服务呢，还是外包出去？
-
-- [Zach] 我们的策略是，和搬家公司合作，帮他们预估价格。我们自身并不是搬家公司，我们的客户是搬家公司。
-
-- [Adora] 这么说你们只是间接为客户提供服务。是这样的。
-
-- [Adora] 好。
-
-- [Avichal] 那为什么需要计算机视觉呢？你给我描述的这些，比如过程漫长，比如市场透明度不高。这些和计算机视觉有什么关系？我们最开始的MVP 其实没用到任何计算机视觉。人们录一段视频 后台员工分析这一视频然后给出报价。每单大概花费90分钟。为此，我们也需要 雇用和培训人员。也有其他一些公司是这么做的。我们的目标在于减少人工需求，采用CV。尽可能减少人的工作量。从产品的角度来说，我们想为客户提供一个 交互式的方法和针对性的报价。比如你要搬家，有2000元预算，但总共需要花费3000元。那么你就需要考虑和选择，如何去安排这比预算了。
-
-- [Adora] 你们打算怎么收费呢？目前有客户了么？有，我们和圣地亚哥的一个搬家公司 签订了我们第一份有偿意向书。我们为他们提供TPM服务，不用AI的项目收费10元，用AI的50元。我们正在和其他很多公司进行洽谈，这些搬家公司年收入从两千万 到几百万不等。有些已经进入 谈判的最后阶段了。在 FOP 试点的特征。接下来我们的目标 是和大企业签订合同。
-
-- [Adora] 你们认为怎样算是成功？准确率么？或者说，人们希望从你们这儿得到什么？
-
-- [Sid] 这是两件不同的事，从消费者的角度来讲，他们希望能减少麻烦。他们想提供更优质的服务 因为目前还没有什么办法 可以让好的公司立即脱颖而出。他们认为，为消费者提供提供优质服务 是一条很好的出路。从成本的角度来看，由于每次现场估算 花费超过200元，而且效率不高，因此他们正想办法 提高底线，增加利润。
-
-- [Adora] 我在想，作为最初的搬家公司，至少大家认为你们是，你们会不会占据更大的市场份额。或者刚才说到外包，我不知道你们是不是想 自己也揽下这些活。二者差异是很大的。这操作起来是很让人头疼，但是，你们现在所做的，或多或少也是在获取用户。就这么做吧，这可以积累很有用的经验。如果你真的做得很好，那就把整个过程都包下来。整个销售过程，我指的是。
-
-- [Sid] 我们也考虑过这个，但是我认为，搬家远比报价复杂，因此目前我们还只是努力地 尽可能地提供最优报价。至于刚才所说的，以后我们可能会做。其次，我们目前正努力招揽客户，搬家公司他们自己也是如此。我们这一技术 既运用在他们网站上，也直接用在我们的APP上。
-
-- [Avichal] 为什么你们对使用AI的项目收费更多，而人工项目更少呢？
-
-- [Sid] 对于人工项目，假如你是搬家公司，你需要分析视频然后给出报价。如果你是搬家公司，你就必须雇人来分析这些视频。
-
-- [Avichal] 你们没有雇人做这项工作。
-
-- [Sid] 10元钱的项目没有。
-
-- [Adora] 那到底是谁在做这些不用AI的工作呢？
-
-- [Sid] 目前我们的AI还不是很成熟 因此我们将这部分卖给别人。
-
-- [Adora] 为什么不把AI卖出去呢？我意思是，这将是你们要做的，为什么现在不把AI卖出去，你们还是可以在后面运营。
-
-- [Avichal] 对啊，卖出去。
-
-- [Adora] 直到你们技术成熟了。
-
-- [Sid] 这个问题很好。原因有二，第一 我们想在真实的环境中训练AI。你能想像，搬家的时候 你的家其实并不像图片里那样漂亮。
-
-- [Adora] 这样的话你们需要很多数据。如果能很快获得这些数据，你就能有全面的解决方案了。搬家公司们 也都是如此。你们也提供相同质量的服务，无论如何，是吗？
-
-- [Sid] 是的，因此我们在雇用老师。这块是外包的。AI在哪些地方进步，这些地方人力需求就在减少。这就是我们正在做的。
-
-- [Adora] 家与家有很大不同。这也正是麻烦所在。没人指出应该怎样将报价过程标准化。你觉得 你们需要多少数据 才能让其自主运行呢？
-
-- [Sid] 我们正在积极通过Google Flickr 在网上搜集数据。我们已经下载了几百万张图片。因此，AI准确率越来越高，离我们的目标越来越近，也有越来越多用户。同时，我们也有专门的人员 弥补机器犯下的错误。
-
-- [Adora] 你觉得你们目前最大的，最大的挑战是什么？
-
-- [Sid] 这是一个很好的问题。我在想，学校给了我们很大的帮助。我们正在和大公司签合同。我们还需要时间 因为我们的AI还不完善，我们还需要想出解决办法，同时我们也可以利用它赚钱。与此同时，多亏有了我们在学校的导师，我们才能有TPM解决方案 才能推出我们的产品。我们曾做过免费的试点。这样能招揽到付费客户。任何可以帮助简化销售过程的东西，特别是和企业客户合作，都会帮助我们更快进步。同时，我想 这也可以帮助我们更快地推出产品，在更短时间内达到更高准确度。
-
-- [Adora] 不断有需求产生，你们的流程是怎样的呢？你们每天和多少公司交流？
-
-- [Zach] 正如Sid所说 我们首要目标是大公司，因为这样我们才可以迅速扩大规模。我们发现，只要你跟这些公司说明你们的想法，很容易就能和他们取得合作。结果就是，我们向他们展示完我们的技术和样本，然后就能签一份有偿试点合约 许多人觉得，这很不错，我现在需要它做任何事了。所以，我们现在做到的 跟我们目标之间还有一定差距。但我们很快就能达到。我们需要创造性的想法 来达到这一点，就是因为创造性的想法才成就了我们的现在，也推动着我们向那个目标前进。
-
-- [Avichal] 这个差距具体是指什么呢？所以他们是想要完全的人工智能，只要给出一个报价？
-
-- [Zach] 对的。你可以在这上面展开来谈。
-
-- [Sid] 好的。你可以想象，我们现在在检测大约40个物体。我们现在需要把范围扩大到150个。因为我们用到视频，所以我们需要去观看每一帧视频来追踪那些物体。所以我们知道这是同一把椅子，尽管我看着它 从第五秒到第十五秒。同样，我们需要确定物体的大小，因为这也会影响到成本。所以我们正在做很多事情。我们在同时做多种工作，并且在这一切上都在取得进展。
-
-- [Avichal] 明白了，他们愿意签购买意向书吗？比如会说"如果你做到这个，我们会每月付给你10000美元"，或者？
-
-- [Sid] 已经签了。
-
-- [Avichal] 我知道了。所以你们签了多少这种意向书了？
-
-- [Sid] 我们现在有超过 6个已经签约的意向书。我们仍在研究合同金额。我们的几个处于签约最后阶段的客户 正在计算最后的合同价格。
-
-- [Avichal] 你怎么定价呢？所以你已经签的那些，你是怎么定价的呢？
-
-- [Sid] 第一年我们收取固定费用。几十万美元。这样他们就可以尽情使用我们的产品。我们实际上在和他们一起工作，来细化消费者是如何 利用科技得到一个报价的。
-
-- [Avichal] 总的合同规模，还是每个合同价值几十万？我们第一年签了最多3个公司吧，价值几十万美元。
-
-- [Avichal] 明白了。所以你不能，我的意思是，Adora之前的观点，你不能只是雇佣两个人来全职做这个吗？从这些家伙那里得到几十万美元 并且宣称"我们有人工智能，和人类一样智能"，因为你的确有这么一个人？
-
-- [Sid] 这就是我们现在正在做的。我的意思是，一旦我们签约，这就是我们的目标。但他们也想要更多，比如几个小时的周转时间。所以这是我们正在进行的工作。这是一个很好的点。
-
-- [Adora] 你们的周转时间是多久？我猜你们在对这个进行优化，现在。
-
-- [Sid] 是的，看情况。我们最短可以把周转时间压缩至一个小时。这意味着我们需要确保 我们每天24个小时随叫随到。现在当人工智能给出分析后 他们能够清除掉。
-
-- [Adora] 你可能只是想知道 现在建立这个数据库的 劳动力成本是多少。然后依据这个来定价。
-
-- [Avichal] 是的。
-
-- [Adora] 所以它可能不是，所以你现在收取10美元或者多少。50美元？
-
-- [Sid] 是的。现在可能 由于劳动力成本，因为你没有所有的数据，数据也不精确，你的成本可能会是100美元。所以为什么不直接收取稍高于成本的费用呢？
-
-- [Sid] 嗯...
-
-- [Adora] 这样会淘汰 一些不愿意支付那么多钱的人。但至少这样能让你找到真正的客户。
-
-- [Sid] 所以对于大企业客户，我们所提供的是一个统一的费率。所以对于较小的客户，我们投10美元和50美元，只是通过我们的管道获得更多的数据 但也许这是个好主意。
-
-- [Adora] 为什么提供一个统一的价格，为什么你要向大客户提供一个统一的价格? 因为这对他们来说很新鲜，而且我们想要鼓励他们 尽可能多的使用我们的产品。让他们乐意每次使用都支付一次费用，我觉得是这样。
-
-- [Adora] 他们已经有评估师了吗？因为你正在取代他们。在某种意义上你们在走这条路对吗？
-
-- [Sid] 我认为一开始我们的目标不是这个，假设你有一套五间卧室或六间卧室的房子，他们可能仍然希望派一个评估师过去。但有很大可能，可能有75%的案例 他们不会派评估者过去。所以我们，最初是基于我们的谈话，他们可能开始用我们是为了 那个特定的市场环节，之前。这可能会变得有点乱，但是派一个评估师的好处之一 是确定他们是一个销售者。所以你们的产品关闭了他们的销售渠道。所以，可能是那样，特别是如果你要进一个巨大的房子，这对他们来说可能是很大的利润。他们不会乐意利润分配到别的地方。
-
-- [Sid] 正确。所以对于评估师来说这就是一个工具对吗？可以让他们的评估更快，能够得到更多房子的搬家生意？
-
-- [Sid] 是的。这是我们与其中一家公司合作的 选择之一。
-
-- [Adora] 好的，了解了。
-
-- [Avichal] 所以这样就变成了什么？假如你们很成功了，你们签约了很多合同，接下来怎么办？
-
-- [Sid] 所以，像之前说的，我们开始自己做搬家公司，但是我们也发现了其他平行的垂直的业务机会。比如墙壁粉刷，家居装修等等。在这些方面我们收集的数据 以及在这些领域所做的培训，将帮助我们更快地找到我们的解决方案。所以我们的目标是，解决一个行业的问题，然后横向发展到第二产业等等。
-
-- [Adora] 好像类似粉刷的工作 会简单一点。
-
-- [Avichal] 是的，我也在想。
-
-- [Adora] 因为它几乎就是计算平方英尺。
-
-- [Avichal] 这听起来是一个 很容易解决的问题。
-
-- [Sid] 实际上稍微困难一些，因为 如果现场评估师来评估你的粉刷想法，而你的那些家具 挡住了墙面方向的视线，等等情况。而且在粉刷方面扩大规模也很重要，我们需要达到平方英尺水平。我们看了看，我们想，我们认为搬家通常是一个 更容易解决的问题。
-
-- [Avichal] 从技术上讲。
-
-- [Sid] 从技术上讲。
-
-- [Adora] 我认为，这是庞大的业务。如果你们能够最终解决 价格评估问题，定价问题，那你们就解决了这一类型的 90％的麻烦，家政服务类型衍化网站。
-
-- [Sid] 我们同意。
-
-- [Adora] 这好像有十亿美元。很巨大的利润。这说不定就是下一个谷歌呢，对吗？所以，恭喜，你应该申请YC。
-
-- [Sid] 是呀，很期待。
-
-- [Avichal] 慢点。
-
-- [Adora] 你好，Adora。
-
-- [Avichal] 嗨，Sandif，我是Avichal。很高兴见到你。告诉我们你做的是什么吧。
-
-- [Sandif] 哈喽？能听到我吗？好的。嗯，我们是校友基地。所以我们做的就是帮助学校 建立和经营在线社区。现在学校在追踪已经毕业的校友方面 存在问题。而且校友的经历非常不完整。就像他们毕业的那一刻 不断收到这种游说邮件，然后就没有更多信息了。所以校友基地就是这样，你可以创造一个私人的校友网络，你的校友可以使用通用登录来注册 像Facebook和Linkedin。然后他们可以互相接触 可以相互辅导，交流工作机会。或者报名参加聚会或者类似的事情。当校友参与之后，学校就会得到一些信息，比如 这个特定的用户是如何参与的，这位校友与我们的Facebook页面的互动，他赞过我们多少次，或者评论过多少次。各种信息。以便他们可以优先考虑他们的校友，然后他们可以接触到正确的校友，以获得不同的机会。
-
-- [Adora] 这是针对大学还是高中？
-
-- [Sandif]  学校。
-
-- [Adora] 适用于任何学校。K12独立学校和大学。
-
-- [Adora] 他们都有同样的问题吗？联系不到校友？
-
-- [Sandif]  是的，那么，大学明显有一个不同的问题 因为他们有不同的规模。但学校有不同的问题。学校最大的问题 是没有更新校友资料。因为他们毕业的时候，
-
-- [Adora] 所以这只是一个基本的，他们只需要一个基本的客户关系管理 它将比现在拥有的好100倍。
-
-- [Sandif]  类似这种。
-
-- [Adora] 好吧。
-
-- [Sandif]  类似这种。但他们将数据存入CRM的方式是通过社交媒体整合。这是我们提供的关键价值。所以你注册的那一刻 我们从Facebook获取你的个人资料，你的教育背景，你的就业信息，你当前的位置。所以如果有人从旧金山搬到了波士顿 他们在Facebook上作了更新，它就会在这里自动同步。目前学校正在追踪的方式是在学校网站上的校友标签上放置一个谷歌表单。或者要求他们发邮件或者...
-
-- [Adora] 所以问题的一部分只是，与该人的连接？所以一旦只是通过电子邮件发送给他们 他们实际上看到了电子邮件，然后让那个人转变？是啊，但这很难。比如你有多少次回复了你学校电子邮件。一旦你收到电子邮件的输入，那么你将需要将其放在其他数据库中。那么你总是需要手动更新 电子表格旁边的数据库或者类似的东西。
-
-- [Adora] 你们现在关注哪一类客户？高中还是高校？
-
-- [Sandif] 高中，像K12高中，是的。
-
-- [Avichal] 从用户的角度来看，他们为什么要注册？他们要有一个Snapchat账号、一个Instagram账号、一个Facebook账号、一个Whatsapp账号、Facebook Messenger、一个手机，一个电子邮件地址，一个Slack账号，这样？
-
-- [Sandif] 我知道。这是很多人每天都问我的事情。所以，在学校开始的时候，像我们的团队，我只是贴了这个，"嘿，你们有多少人想要 加入一个校友的新网络 你为什么要加入？" 所以每个人都喜欢，是的，我们想要一个私人网络。因为像Linkedin和Facebook这种网络 就像公共网络一样，但他们想在一个封闭的朋友圈里。
-
-- [Avichal] 为什么Facebook分组没有解决这个问题？
-
-- [Sandif]  Facebook分组 没有解决这个问题，因为你无法真正 连接到彼此的工作机会或寻求到辅导。对于一件事。
-
-- [Avichal] 什么意思，为什么不能呢？不好意思我没理解。
-
-- [Avichal] 为什么不能呢？如果你们在同一个分组里，你可以给别人留言。嗯不，不，我的意思是 你真的得到这些通知多少次。例如我关掉了我的很多分组。这几天这个分组的覆盖范围只有百分之七？因为Facebook很想在分组里推广 广告或者什么东西。所以在Facebook分组在这种参与方面 相当困难。
-
-- [Avichal] 但这不是一样的事吗？所以如果我按照你的逻辑，你基本上是说 理论上你可以加入一个小组。然后别人可以接联系到你，他们可以喜欢你的东西，他们可以在组中发布一堆东西。而Facebook会通知你 因为该组中发生了一些事情，这也开始令人烦恼，所以你关闭了通知。完全正确。为什么不会发生同样的事情呢？是啊，在这里 你实际可以设置不同的通知。比如当他们注册的时候，我们会问他们，比如 你想如何为社区做出贡献？是通过提供辅导？还是通过提供工作、分享机会？还是通过给予、志愿服务或规划聚会？所以问了这些，基于此，他们可以配置通知，他们将会根据这些设置获取摘要。
-
-- [Avichal] 我明白了 是的，所以你不会收到所有普通的通知。例如，1990届的班级正在组织聚会，而你在斯坦福大学，是2000届的，那么你实际上不想看到那个通知。对吧？我的意思这个消息不适合你。这是跟你不相关的，在小组里。
-
-- [Adora] 你目前有几所学校了？
-
-- [Sandif] 准确来说，94所。每个学校有多少人？每校的校友？平均来说有5000。根据是否是寄宿学校 或学校的种类，也可以达到15,000。
-
-- [Adora] 每所学校5,000名校友，在你的网站上？
-
-- [Avichal] 有几所学校？几所？
-
-- [Sandif] 94，但是，
-
-- [Avichal] 所以你有45万用户？
-
-- [Sandif] 不，我们有一百万条记录。像一些学校有更多的，我们也签了一些大学。而且，有约25％的人在平台上注册了。其中一些还没有在平台上注册。
-
-- [Adora] 当他们注册了平台 他们在做什么？
-
-- [Sandif] 有一件事是管理。像校友关系办公室一样，他们有不同的工具 比如哪里可以发布内容和每周摘要。所以他们来消费这个内容，或者回应任何事情。就像有一个叫"需要"的部分。如果有人想要任何帮助，他们可以在那里发布。所以他们来这里回复这个。这实际上是他们在此时所做的。或者如果有任何职位发布，他们就来申请，如果他们正在寻找工作机会。
-
-- [Avichal] 所以，如果我是学校办公室，谁实际上会买这个？谁实际购买了这个服务？
-
-- [Sandif] 学校正在购买。
-
-- [Avichal] 学校里面的什么人？校友关系办公室。不是协会，而是校友关系办公室，每所学校都有校友关系办公室。他们自己的办公室里的校友关系 是支离破碎的。所以他们购买这个平台服务。
-
-- [Avichal] 我明白了，你们为这些人 定了什么价格呢？
-
-- [Sandif] 是的，我们在定价。所以我们有三个不同的计划。但是专业计划是有很多功能的。每年5000美元的样子。
-
-- [Avichal] 每年？是的。
-
-- [Adora] 看起来像，第一，让这些用户在毕业后联系在一起。第二，有些事情，我觉得这里缺少的一些特色 就是延续学校精神。我现在无法表达。但是这是不是...
-
-我试图在想，Avichal想说的是 像你已经在Facebook上建立了很多东西 或其他的东西，而且人们自然地创造了这些分组。也许这不是整个学校，但这是他们的朋友设定，或者你知道，比如我在一个100人的小组，和我的高中同学。但是我不知道，我不知道我现在要怎么办。但我认为联系上这些人的方式，校友们，行政人员，可以捕捉到某种学校精神。
-
-确实如此，我的意思是，如果你想想，你不想提供 你的联系信息是因为 学校在这个时间点 没有给你任何价值，所以如果他们能提供一些价值，比如，嘿，这里有这么多的导师，如果你想要任何指导，你可以来这里，我们将帮助你。然后还有一个学生方面的问题，就像毕业班。就像在高中，特别是当他们要 申请大学或什么的时候，在学校的咨询办公室，他们可以匹配这些人，然后针对他们申请的大学，帮助他们得到更好的咨询建议。
-
-所以他们在这时候可以做 这些小事情，而这些，在Facebook群组或任何这类的分组里，我认为做得并不那么结构化。这里的关键是校友办公室 实际上可以控制所有这一切。比如什么正在发生，而这些在一般群组里是不可能的。
-
-- [Avichal] 对于校友办公室 成果如何？比如，他们必须续约，再买一次。他们怎么决定是否 在给你5000美元？
-
-- [Sandif] 好的，我想 这跟校友注册的人数有关。然后是他们在数据中获得的信息丰富程度。例如其中一所学校，他们只有600条记录，但总校友有大约8000人。我们也有一个邀请人的邀请工具 他们可以通过Facebook和Linkedin邀请校友，所以他们在前六个月 就有了大约1800人。
-
-- [Avichal] 那么为什么要这些记录呢？就像前面说的，比如给予，或者为了了解喜好，更好地吸引他们，为他们提供更多的价值。
-
-- [Avichal] 听起来有一些下游指标。假设我是校友办公室，我在数据库中获得了所有8,000条记录。而我是这所学校的校长，我会为此解雇那个校友负责人吗？那个人像失去了工作，现在，因为他们得到了所有的8,000条记录。
-
-- [Sandif] 我认为他们要使用它的地方：就是指导。这是我们正在考虑的巨大价值。但即使是校友官员也不会真的，他们不知道什么是关键指标。所以我们也试图帮助他们 在工作的时候建立这些关键绩效指标。
-
-- [Adora] 听起来，答案好像会 与每个校友进入之后捐款的金额有关。
-
-- [Sandif] 是的，这是最终目标，就像你看一个漏斗一样。那么什么是工具，你就必须在这些工具上做努力，对吧？所以你让所有这些人都很棒。那么你要如何让这些人捐钱呢？捐款？我们有一个筹款模块，您可以在其中投放不同的运动广告。这是一年一度的，为一个建筑的发起的运动，那么你可以做出捐款。比如这笔捐款是为了纪念我的儿子。
-
-- [Avichal] 所以如果这是关键的事情，就像校友们负责人 试图找出如何找出 如何最终获得更多的捐款的方法，为什么要做这些额外的工作呢？为什么不通过他们现有的渠道 帮助他们优化他们已经在做的事情？所以我们看到的是，当他们正在 为这些捐赠招揽时，实际上捐款率已经下降了。
-
-例如在学校里，与刚刚捐给非营利机构的 校友一般用户相比。实际上捐款率已经下降了。所以这些日子，他们只是为事业捐款，而不是捐赠给学校或任何类似的机构。我们相信，前提是，假设所有参与的校友 最终都将成为捐助者。所以这就是为什么会有这一切。所以你需要提供价值，然后向他们索取。不要只是索取。
-
-- [Avichal] 懂了。有没有数据，我的意思是这种软件已经存在了很长时间 我得想一下，CRM。这是有效的CRM软件。在后台，是的。但是你知道，我一直都在收到 来自我参与的组织的电子邮件，试图与我联系。并合作计划。有没有数据说："是的，如果你邀请你的校友，他们实际上会捐出更多的钱"？
-
-- [Sandif] 还没有，我们在这方面观察了18个月了。
-
-- [Avichal] 不，不，不，我是说在其他软件上。比如有邮件列表。那些对邮件列表做出响应的人 更有可能捐赠吗？
-
-- [Sandif] 至少这是学校说的。是的，我们没有，我的意思是我问过他们，你现在的捐助者都有谁？他们说这些是在校的校友，正在这里教学的或来到这里进行客座讲座的校友。或者经常回复电子邮件的校友。我们不知道确切的数字，但这是我们得到的感觉。
-
-- [Adora] 有没有理由表明 我们应该从高中还是高校开始做工作？因为大学似乎 有更多的预算。事实上，他们有整个办公室做这件事。校友也有更多的钱捐款。
-
-- [Sandif] 当然，当然。它与学校... 但是为什么，我的意思是我们最初落后于大学。但是之后，销售周期真的很长。比如有很多关系维护过程。然后是采购过程，还有一些大学招标系统。
-
-- [Adora] 但是，如果这是所有的钱的所在之处，
-
-- [Sandif] 是的，我们最终会做到那里。我们最终会做到。
-
-- [Adora] 但是，我认为你们为高中校友、行政部门 建立的工具 与大学校友有很大的不同。
-
-- [Sandif] 最终是这样的。
-
-- [Adora] 我想我们建议的是
-
-- [Sandif] 去大学，而不是高中？
-
-- [Adora] 我们已经和你谈过了十分钟，所以我现在不会 把整个事情为核心，但我真的会好好想想 高中和大学之间的市场机遇。
-
-- [Sandif] 我同意 大学的市场机会很大。我的意思是简单的数学都能说明这个。但唯一一件事是，销售周期更长，而且在这个时间点我们的增长就是停滞不前。但是与学校一起，办公室里有两个人。如果你们都同意买它，你就买它了。但在大学里，你可以是校友关系总监 你是第二位董事，你们都同意现在你们需要去 开发总监，然后你需要去说服副总裁，完善各项制度，然后找采购处。
-
-- [Adora] 是的，但一旦你弄清楚了销售的定价过程，我知道这很难，但你会弄清楚的。这在所有大学中可能是相似的。你只需优化它，并真正做到擅长这个，然后人们就会开始更快地进来，对吧？但让它成立这是一个痛苦的过程。
-
-- [Sandif] 所以我们看到的就是，举个例子，在这个市场上还有其他玩家。所以我们有，我的意思是我们只是跟踪... 所以他们说最终会有多少，我不知道他们是否真的破解了这个过程，但他们有912个月的销售周期。它像一个长久的关系建立过程。他们最初需要见到冠军，然后他们需要回应他们。这是一个很长的销售过程。
-
-- [Avichal] 我的意思是... 这是有道理的，这很有意义。我觉得风险真的很高，你想要的高中毕业 实际上和你想要的高校很不一样。实际上你已经为这个市场建立了一个不会更有价值的产品。你在这个这个大利基里面结束了，因为它在这个利基里面走得更快，但它并没有转化为更大的更有价值的利基。这就是你运用该策略的风险。
-
-- [Sandif] 的确。但是，我们正在建立的工具种类有轻微的重叠。所以我觉得我们在这里得到一些见解，我们也有几所大学。我想大约有8所大学正在使用我们的产品。所以基于这些见解，我们密切关注着他们。而依赖于这一点，一旦我们建立了一些 比如案例研究，那么我们就有更好的社会证明，那些东西可能有助于优化销售流程。
-
-- [Adora] 我认为这是 Avichal早些时候了解到的，在大学里的人，他们已经有了一个系统。邮件列表，营销，这样的东西。也许你最初没有把它全部替换掉，但也可以和这样一群人谈话，也许你可以建立工具来帮助他们做某事，我不知道是什么，但应该是更好的东西。从那里开始，不是，它不会花费太多，但它让你到达这个门口。当然，当然，是的。
-
-- [Avichal] 对不起，对于另一件大事，你所说的一切都很有意义，在短期内。我的意思是，如果你看，有这个伟大的故事，这就像互联网上第一个横幅广告 有73％的点击率或是疯狂的东西。只是因为没有人看过横幅广告。就是这样，所以他们点击了它。现在显然，人们不会再点击横幅广告了。而且我相信早期的Facebook网络广告点击率有点疯狂，点击率实在令人惊讶。所以你实际运行的风险，试图建立自己的分销渠道的风险，是几年后，你最终会遇到同样的事情，那么你就会陷入一个艰难的境地。实际上对我来说，你表达得很好。你想做的事的关键 是帮助这些人筹集更多的钱。而渠道只是 帮助他们筹集资金的手段。另一种反驳方式是，如果你想筹集资金，我可以为你建立的十件事情是什么 要想筹集资金，而不仅仅是通过一个策略 来筹集资金。当然，就像一个试验。我正在做的是 我正在与湾区学校的一个客户进行志愿活动，他正在进行这种特定的筹款活动，所以我们正在为他们建立一些工具。要明白这个确切的问题，比如这些工具的要求是什么，是不是最终我们只需要出售筹款方面的功能。比如免费赠送，或许还可以减价，对吧？这使得过程非常容易。所以我们是志愿者，类似这种工作，弄清楚里面有什么。或者筹款。
-
-- [Avichal] 完全是这样。也许以稍微不同的方式来看，似乎已经有很多渠道：邮件，电子邮件，facebook，linkedin，任何信使、文字都可以。而建立另一个渠道 就给你创造了很多产品风险。其实只是帮助他们更好地筹集资金 已经尝试管理的渠道 将会是一种不同的方法。你可能要走一个更大的市场。其实我有...
-
-我认为这也是我们面临的最大挑战。像最初我们为校友关系办公室 建立了这些工具，他们就可以在后面，他们可以做所有这一切 因为他们是在这方面 做这个购买行为的人。所以他们需要立即看到即时的满足，他们正在改善他们的工作。但是让校友注册是一个很大的挑战，就像你所说的。所以是的，这是我们的一个很大的挑战。
-
-- [Avichal] 就像我可以从字面上想象的那样，如果你只是让它变得容易。链接中点击的一些地方，你们就像，"哇，我想给你钱 你这么努力。" 就像我无法在手机上捐赠，这是表格，他们没有正确填写，然后像他们的工作没有被正确地验证。就像我试图给你钱，为什么这么难。我可以想象，校友办公室会很开心。如果他们的兑换率从5％上升到12％。他们只会赚更多的钱。是的，这正是我们正在尝试的。
-
-- [Adora] 很棒，我想是这样。
-
-- [Avichal] 是啊，肯定的。开始问答环节，有什么问题吗？好的，问吧。
-
-- [观众成员] 是的，我们无法靠近我们的用户。那么在这种情况下，有什么建议呢，你怎么才能更好地了解你的用户？
-
-- [Avichal] 你为什么不能接触到你的用户？你现在在这里吗？
-
-- [观众成员] 是啊，但在一段时间后，我会被阻止，然后我又可以进来。我们就像在转换自己的角色，像三个共同创始人 所以我们每个人都在不同的时间来，然后我们留下和学校合作。但这对我们来说是一个持续的挑战。我想，你公司在哪里？
-
-- [观众] 这里，山景。谁是你在别处的用户？
-
-- [观众] 所以有不同的学校，是吗？所以湾区的学校，他们来自不同的国家，对不起。哦，我明白了 我的意思是，我想你应该，主要是与这些人 建立关系。和他们一起坐下来，因为我不知道一天或一个星期。让工作流程顺利进行，是一种方法。很显然，你不能同时在任何地方。但我认为你可以建立很多产品 你不必在他们旁边。
-
-- [Avichal] 我认为有两种一般的方法 可以做到这一点。有定性的，有定量的。定性的话，有不同的尺度。你可以逐个地一对一的研究 你和客户一起，可以有一个可以在线创建的表单。
-
-用户反馈软件，将为你提供一堆良好的定性反馈。如果人们提出一些能给你信号的东西。我看到有公司使用他们所谓的客户委员会。所以你要做的是拿一个 1215人的代表样本，你每个季度带给他们一次，或者每六个月一次，给他们新的东西。他们被赋予了DNA，他们谈论它。给你有针对性的反馈，这是一个很有针对性的方法来做到这一点。
-
-然后是所有定量的东西。最终你的关键绩效指标，只有四个类别的指标，对吧？有多少人使用你的东西？他们使用你的东西到什么程度？做它应该做的事情 能做到多好？你赚多少钱？而所有的指标基本上都可以归类为四个。
-
-当你构建功能时，你只需要对这些对象进行映射，并看到这些数字是否移动。在这两者之间，你应该能够测定 一件事情是否正常工作。谢谢。你们需要更多的时间吗，还是我们没有时间了？就这样吧。很酷，谢谢你们。
+# Live Office Hours with Adora Cheung and Avichal Garg
+
+Speaker 1: Hey everyone. For today's Live Office Hours we're joined by Adora and Avichal, and I'll  leave it to them to introduce themselves.
+Adora Cheung: I'm Adora Cheung. I am a partner at Y Combinator. Previously, I was the founder/CEO  of a startup called Homejoy.
+Avichal Garg: Hey, Avichal Garg, I'm a YC expert. I was most recently director of product at  Facebook. I've done a couple startups, sold a couple, invested in a bunch.
+Angela: Angela.
+Adora Cheung: Hello, Adora, nice to meet you.
+Avichal Garg: Avichal, good to meet you.
+Adora Cheung: Cool, welcome. So, tell us what you do.
+Angela: Hi, we're working on Appmission. It's a web application that offers high quality, personalized college  admission advice for high school students.
+Adora Cheung: So, is there another person on the other end, or how does the ... Can  you give the most common use case of how people use it?
+Angela: So, a student can sign up for free, and then they will create a profile.  The profile includes the academic information, including the GPA, test scores, and also extracurricular activities,  and the college goals. For example, the colleges that they want to get into and  also the majors they are interested in. So, once they enter the data, we use  our algorithm to generate a personalized recommendation to them to help them reach their goals.
+Avichal Garg: Gotcha. So, who's using this or who do you want to use this?
+Angela: The high school students and their parents.
+Avichal Garg: Who, more specifically?
+Angela: For those who cannot afford private college counseling, because the price range is from $4,000  to $40,000 per package.
+Avichal Garg: I see. And why would they use this?
+Angela: Because in the U.S. Public high school, one counselor serves 491 students, and each student  only gets 38 minutes of college advising per year, so we want to fill in  the gap so they can get access and we think that every student deserves the  help they need to get into college.
+Adora Cheung: Is there one particular thing that they really need help on? Because one of the  things I think a lot of people only buy a lot of books about is  essays, because the application itself is pretty objective and standard, right? So, do you find  there's a specific feature that people are really looking for and will actually pay for?
+Angela: Yeah, that's interesting. When we first started, we kind of just came pretty broad. We  talked about our essays, we talked about college selections. But recently, when we talked to  some of the users, we found out that they want one-on-one interactions, and specifically on  college selection and the essay.
+Adora Cheung: So are you building a marketplace then, of people?
+Angela: So when we first started, we just kind of did it on our own, like  the backend is us. But actually, we talked to Anton, our mentor on this at  our school, and we also got some feedback from users saying they want one-on-one interactions.  So, last weekend, our team spent 30 hours to build and launch that marketplace.
+Adora Cheung: And how's that going?
+Angela: It's going quicker than I expected. So we, for the past three days we had  about 800 people visit the site, and then we had about 60 advisors signed up.  So right now, because of the marketplace, we focus on the supply side first.
+Adora Cheung: Okay, so you have 60 advisors, and so you're focused on acquiring those. Do you  think that's enough? It seems like enough because it's a ... Excuse me?
+Female : I don't think they can hear you.
+Adora Cheung: Can you hear me?
+Avichal Garg: Hear me and Adora or these guys?
+Adora Cheung: Oh, there we go. Or is this not on?
+Female : Can everybody hear in the back?
+Adora Cheung: Are we doing okay? I can yell also. Does this make it better?
+Avichal Garg: It may not have been on before. Is that better?
+Adora Cheung: Are we good? Are we good? Okay, cool.
+Avichal Garg: In back?
+Adora Cheung: Sorry about that. So supply side acquisition. So you got 60 advisors, it looks like  you're ready to go then, right?
+Angela: Yeah, we're ready to go but then we right now our next step is to  review those advisors and make sure that their profile is nice and that they are  high quality of counselors who have specialized certain areas so that we can use those  to attract the students.
+Avichal Garg: Why is now the right time to do this? This could have been done five  years ago, has something changed in the world that makes this possible now?
+Angela: I think that at our industry has been grown slower than other consumer-based technology, so  I think right now is a good time because the parents and student they are  getting more and more tools in their school using technology to learn, like personalized learning  and collaborative learning, so I think this is the space where it has not been  fully utilized yet.
+Avichal Garg: Why do you think that is?
+Angela: I think the reason why is people usually they focus really on tutoring, they've put  a lot of those energy on to getting good grades. And then they feel like  they know exactly how they can get into college just based on their friends and  family. So they rely a lot of those personal advice from their friends and family  or whoever have gone through that, but we want to give them the professional side  of thing.
+Adora Cheung: It seems like the amount of information out there is out there and so people  are probably trying to differentiate themselves because there's the internet and I can get that  same access as person A or person B, right? And so it makes sense that  you need somebody else to tell you how to make it better versus just reading  stuff. So I wanted to focus on, it seems like your biggest challenge right now  is going to be matching, right? So you have 60 advisors, do you believe they're  ... It sounds like you believe that they're high quality enough right now to start  matching them?
+Female : Some of them not all of them.
+Adora Cheung: So how are you going to, or what are your top two, three determinants of  bringing on these advisors in?
+Female : So definitely one of the things that we are looking for is whether the counselor  or the advisor is certified or licensed. Again, we just launched more occupations a few  days ago, what we are going to do is to focus on those profiles that  are existing right now and talk to the actual advisors to see if they have  the credential.
+Adora Cheung: Are you advisors yourselves?
+Angela: I am.
+Female : Yeah, Angela is.
+Adora Cheung: So you're on the site?
+Angela: Mm-hmm (affirmative).
+Adora Cheung: Okay, and have you why don't, I mean one thing would be just to match  people to you and to figure that piece of-
+Angela: Right, so when I start doing that I had one person, which I met in  person because they basically meet with me in person that's how we got ... We  think that that is something that would be valuable, but we already stop putting myself  out there into ... On the supply side.
+Avichal Garg: So, there's a whole set of product risk here, which I think you guys have  worked through. The thing I keep coming back to is actually the market risk on  this one. So my first start up was in education so I know a ton  about this space actually. Historically, the challenge has been that the way that the average  person in the US thinks about things like college admissions is actually pretty different than  the way that people who are in this room probably think about college education. And  fundamentally a lot of that comes down to do you think about education as an  investment or an expenditure. This happens in a lot of markets where you kind of  build for yourself and then you realize the market doesn't actually behave the way that  you behave and so there's a leap that sometimes companies aren't able to make. That's  why I was sort of probing on that is like has the market actually underneath  has changed. Have you actually validated that people want the same thing that you want  and that that market is large enough to actually support a business.
+Angela: Well actually there's recent change that I think would give us the opportunity, which is  the new administration. Because we're talking about funding cut into public school system so we  were expect that the resources that they have will be less and less, and I  think that is an opportunity to educate the parents and student and it should promote  the needs of having college advising.
+Avichal Garg: Gotcha, but they don't currently get it today?
+Angela: Right, they get very minimal.
+Adora Cheung: What resources do people have 'cause there's books, there used to be sites like vault.com,  which I don't think gives advice anymore, so what are they using right now?
+Angela: Right, so there are a lot of free sites out there like College Board, they  have check, they have different web sites that tells them the details of the colleges  that probably the application rates and all those stuff, but those are not personalized for  them. When we did an interview with the users, they found it very overwhelming to  go through all these different site.
+Avichal Garg: Who were the people that you were interviewing? Where did you find those?
+Angela: We found it from our neighborhood, found it from our friends' kids and basically people  that we know.
+Avichal Garg: Right, I keep coming back to this. I think specifically this is one of the  biggest risks in the education market is that the mass market is going to behave  differently than the people that you know. So actually validating by talking to those people  what their needs are and what you want to build for those people and what  they want is actually pretty critical early one because people from your neighborhood probably think  about education very similarly to the way you do. Or your friends' kids probably think  about education very similarly to the way-
+Angela: That's why ever since we launched we try to iterate different ideas under the site  to see which one catch more of the attention. So far I think we were  able to identify that one on one personalized interaction is important, but I think the  next step we want to drill down into something more specific so that we can  just focus on that one thing.
+Avichal Garg: Have you guys considered the international markets at all? Is this just a US problem  or is this like a global problem?
+Female : We thought about it, there's some leads that we talked to. There's definitely the potential  there for international markets but the platform that we have been on so far is  really targeted to US. But that doesn't really limit us on expanding to more markets.
+Avichal Garg: Yeah, have you thought about going international first? As opposed to US first?
+Female : Our target was basically states first, that was the focus and in fact our website  is admission.us so is more like a ... But definitely again we do know that  there are people out there outside of United States who want to study here in  the States and they need that information as well. We talk to advisors as well  from outside of the country and there's the need but we don't really have any  like, let's target those market, yet.
+Adora Cheung: How many users are on your site right now?
+Angela: We have about 200 students.
+Adora Cheung: 200 students and where are they, what's the common element among all of them?
+Angela: So we have 40% of those are seniors so that tells me that they are  pretty, they wait until pretty last minute to do this and then there are 25%  the junior and majority of them are focusing on computer science and engineering math type  and business majors.
+Adora Cheung: It sounds like you might want to, I know this is kind of what I  think Avichal is getting at also, is trying to figure out what is that core  thing that they really need versus this like, right now it seems a little abstract  of I'm going to help you find a college but it might be something as  simple as the essay, like I need help on the essay and just focus on  that one thing and drive it home versus being a little bit, doing so many  things at once.
+Female : Yeah, so admission submission is to make sure that we provide the same opportunity for  all students, that chance to go into college. We understand that definitely within maybe California,  maybe in bigger cities that people, students are more educated, more they have the background  of what's the path to college and beyond that what we are trying to do  again going back to mission we want to make sure that outside of these group  of students people from outside of California also have the same access to the same  information. If you think about ... Or actually based on our survey or talking to  users, we know that a lot of students actually think they might not even have  the chance to go into colleges because it might not be affordable to them. But  there's definitely alternatives for them like financial aid and things like that. That's the tier  that we're trying to target to make sure that they have access to the information  so that they know they at least have the chance to apply to college or  maybe qualify for financial aid and path.
+Avichal Garg: I'm just going to echo what Adora is saying, I love what you just said  by the way, that's an awesome mission. When you think about a company and there's  like the mission, there's the vision it's like, "When we achieve the mission here's what  the world will look like." There's the strategy, which is like, here's in the fewest  number of words how we're going to go about achieving our mission and then there's  the tactics, there's the things that you do week over week in pursuit of your  strategy to validate whether that strategy is true or not. I think the advice that  Adora is giving is more like strategic advice where it's like okay great, that's an  awesome mission but where do you start? Or what is the first value that you  create for people and then that lets you create that second value, and that third  value and then you've created all of the value for that population of people, but  where do you start.
+Adora Cheung: Yeah if you think about if you're going to apply to college there's many steps  in that, and you can't tackle every single step so find the one in which  people are having the most issue with, or they need the most help in which  they will actually pay for as well because you're trying to obviously build a business,  right?
+Avichal Garg: And it's not just, sorry to cut you off, but it's not just project strategy,  there's also the go to market strategy which is like, that's a lot of people  right, what is it, how many people, is it like 50% of people even take  the SAT in the US? It's like half the people don't even take the SAT.  So you're talking about large numbers of people at every step of the funnel and  so who you target is also part of your strategy and who you target is  going to be directly tied to what you build for those people as a first  step.
+Angela: Yeah I think that's a great point and when we first started there were like  many different angles we could target and we want to use that they users data  and the ... We wanted to just ask the users to drive us to which  is the focus. I felt like because the early acquisition is really hard for the  users so I don't have enough people to actually give me feedback on which areas  they want to focus on. Some early indication is school selection and essay, so these  are the two that so far I can identify from major is like science, math,  and business so those are three majors. We have some pieces though, signals that tell  us which way we should go but I know in my hear that going forward  there is some one area that I need to focus on I feel like we  don't have enough data to get there yet.
+Avichal Garg: Yeah well the challenge with data is, this goes back to there's basically two ways  to figure out what you want to build whether it's your market, your go to  market plan your product is the top down which is like you go get a  bunch of data, where are the opportunities, how do you slice the market, we're going  to start here then we're going to go here and we're going to go here.  Or bottoms up which is you build the thing, you put it out there, people  start using it, they're like, "Oh we want this." We move forward. A lot of  software actually bottoms up is great because the early adopters indicate where the world is  headed. You build for them and then the rest of the world kind of catches  up. Social networking was obviously was a great example of that. The challenge is if  people that are the early adopters of your product are not representative of what everybody  else is going to do then you end up building a thing that doesn't actually  work for everybody else and that's I think part of the challenge that you would  have right now if you do that. I suspect the people that are coming to  you are not going to be 100% representative of, like to me it sounds like  two different populations of people that you're talking about. The people who don't know about  financial aid, or maybe are not applying to colleges, or not doing all this kind  of stuff or don't have the support. Versus people who are organically finding this and  care about this stuff a lot to me actually sound like different populations of people.
+Adora Cheung: I think we have to finish up but just one last thing, it seems like  a lot of people are coming to you for advice anyway and I might just  start from there and just sit down with all these people and just do it  all day every single day for the next I don't know few weeks and then  see if they're anything common things that people are asking you. Also you have access  to now 60 advisors, you could also sit with them and do the exact same  thing. It's totally not a scalable thing to do in the future but it seems  like to figure out where to start, that's like one way to go about doing  it.
+Angela: Thank you.
+Female : Makes sense.
+Sid: Hi I'm Sid.
+Avichal Garg: Sid, Avichal.
+Adora Cheung: Hey, Adora.
+Zack: Hi I'm Zack.
+Adora Cheung: Adora.
+Avichal Garg: Avichal, good to meet yeah.
+Adora Cheung: Cool, thanks for coming. What are you working on?
+Sid: So I'm Sid and I'm the CEO and confounder of Jambo. At Jambo we are  bringing computer vision and technology to solve the price and cost estimation problem for the  home services market specifically we starting with the moving industry so let's say you are  a consumer and you want to move you want to know how much it's going  to cost you take a video and our technology will identify all the items and  then you get a front an accurate code. This is much better than calling multiple  moving companies, staying on the phone for about half an hour each to get arbitrary  wrong quotes or waiting at home for an onsite estimator to come visit.
+Adora Cheung: So is this an app?
+Zack: Sure. We have multiple channels, we did an MVP pilot with an app. We've also  been working on just having it directly on the webpage of the moving-
+Adora Cheung: So say I'm at home, it sounds like I take the app and I'm taking  pictures and I'm sending it to you guys and then you kind of give me  an estimate ASAP essentially. Okay.
+Zack: Correct. We also have a solution where you can text it to a number, but  it's the same technology-
+Adora Cheung: This is more accurate than the, or how what's the percent of accuracy do you  get base on, versus someone coming in.
+Sid: So we are targeting the same accuracy so the way we are thinking about it  is today the estimation process takes about a week for you to get a quote  or you get multiple quotes and you don't really understand why a quote is what  it is. Our goal is to give you a complete breakdown on what it is,  and we still have some human labor in the background cleaning up the mistakes the  AI is making so our goal is to reduce the human time to less than  five minutes.
+Avichal Garg: Why is it so expensive, or why is it so, take a week to get  a quote? Where are moving tech companies taking so long?
+Sid: So one main reason is if you are scheduling an onsite estimator visit, so it  cost a moving company a lot more than $200 per visit and you have to  schedule something, schedule someone to come visit. These guys are able to do two to  three estimates a day so in summer time when it's busy it gets really backed  up. Most companies don't end up actually sending an onsite estimator and they give price  quotes over the phone, our research shows that 90% of this is wrong so consumers  shop around. They don't really understand why a company's quoting what they're quoting. And in  a lot of cases what happens is there are these predatory providers in the market  who take advantage of this price of weakness and they give you a low ball  quote, get your business and on the day of you most specifically they slap you  with last minute fee hikes.
+Avichal Garg: I see.
+Sid: So we want to bring, we want to eliminate all of that.
+Adora Cheung: So once you get the quote are you also doing the moving yourself or are  you selling leads?
+Zack: Our strategy is we're working with moving companies to do the estimating for them so  we are not a moving company and our customer is the moving company.
+Adora Cheung: Ah, so you're the white label solution for them.
+Zack: Correct, yes.
+Avichal Garg: Why do you need computer vision for this? It seems like everything you described to  me sounds like process failures, transparency, you know market place failures, it sounds like a  bunch of, what does the computer vision give you?
+Sid: So our initial MVP that we deployed doesn't have any computer vision, people just take  videos and somebody watches it in the backend and to give a quote that takes  around 19 minutes per person and also you need to hire and scale human work  force to do that and there are a few other companies that's doing this. Our  goal is we eliminate like majority of the work through using CV and keep the  human workload to as less as possible. From a product perspective what we want to  be also able to deliver to consumers is an interactive of them customizing their quote  so let's say you have a a $2,000 budget and moving everything is maybe going  to cost $3,000 then you can decide we can choose however you want to spend  that money.
+Adora Cheung: How do you intend to charge for this, and do you have current customers right  now?
+Sid: Yeah so we signed our first LOI for a paid trial with a moving company  in San Diego where we are doing this GPM solution where it's $10 with no  AI and $50 with AI. We are talking to multiple large moving companies from 20  million dollars annual revenue to a few billion dollars and we are in the final  stages of negotiations with some of them. On the timeline that's a less of the  features a paid pilot so it's like enterprise level contracts that we're going after.
+Adora Cheung: So what is success look like for you, is it accuracy or what are these  folks looking from you?
+Sid: Two different things, from a consumer standpoint they want to reduce the friction of, they  want to provide a better quality of service because there's no way for the good  companies to differentiate themselves right now so they are looking at it as a better  way to do customer service and also from a cost standpoint since it costs more  than $200 to send an onsite estimator and it doesn't scale they are looking at  ways to increase their bottom line in their profits.
+Adora Cheung: I wonder if there's a bigger market in you being the initial, like people thinking  you're the initial moving company or and you're selling the leads. I don't know if  you want to get into the actual moving itself, that seems quite different it's just  operationally a headache but instead part of what you're doing is also acquiring users and  getting that sales process going and making it a great experience and if you do  that really well then why not just own the entire process? The entire sales process?
+Sid: That's something that we've considered but moving has a lot more intricacies than just the  quote so eight now we are just hyper focused on generating the best quotes possible,  that's something that we could possibly do in the future. The second point is we're  not acquiring customers today, the moving companies acquire customers themselves so we are a technology  that either they're on the website or direct consumers to a rep.
+Avichal Garg: Why do you charge more for the AI and less for the people?
+Sid: So with the $10 solution the assumption is if you are the moving company you  watch the video and provide the quote yourself so there's some human, if you are  the moving company you have to hire people to actually watch the video.
+Avichal Garg: Oh so you're not hiring the people to do it.
+Sid: On the $10, no.
+Adora Cheung: Who is actually taking the non AI version?
+Sid: Right now our AI is not completely ready yet so that's the product that we  are selling right now.
+Adora Cheung: I see but why not sell just the AI, I mean that's what you're going  to be so why not sell the AI product now, you could still have yourselves  in the back-
+Avichal Garg: Yeah just fake it.
+Adora Cheung: Yeah fake it till you make it you know?
+Sid: So that's a good question so two reasons, the first one is we want to  train our AI on real world, people's homes. You can imagine when you're moving your  house looks nothing like the beautiful catalog pictures-
+Adora Cheung: It seems like this is, you need a lot of data and to get a  lot of data really quickly you could just provide this blanket solution and all the  moving companies think they're getting this thing.
+Sid: Yeah, so-
+Adora Cheung: And you're providing the same amount of quality either way right?
+Sid: Yeah so we are actually hiring teachers that are old sourced whereas our AI is  improving their workload that's reducing so that's something that we're doing.
+Adora Cheung: So, homes are very different, which is why it's probably such a big problem no  one has figured out how to standardize the quoting process. How much data do you  think you need before you've gotten something that can just run on its own?
+Sid: So we are actively also web scraping for data from Google, Flickr so we have  a few million already downloaded to the goal with AI is the accuracy keeps increasing  with time and as more consumers use it and we have a feel safe mechanism  of humans filling in the gaps in the mean time.
+Adora Cheung: What is your biggest challenge right now?
+Sid: That's a good question, and that's one thing I think start up school has actually  helped us out with so we are going after large interface contracts and it's taking  some time because our AI is not ready yet so we are looking at ways  of how to deploy a solution while simultaneously being can monetize it as well. In  the mean time because of our mentor from start up school we are doing this  GPM solution so that we get our product out the door. We did a non-paid  pilot so this is a way to get some paying customers, so anything that can  reduce the sales process especially as we're going after the enterprise customers will help us  accelerate faster as well as I guess we need to clone ourselves to create a  product that's much accurate and in a shorter period of time.
+Adora Cheung: It's generating leads and then, so what does your pipeline look like? How many companies  do you talk to a day?
+Zack: Sure so as I mentioned we're targeting initially these larger enterprises because that allows us  to scale faster so we found it's pretty easy to get companies in the funnel  when you explain what you're doing. It's the end of that after you've shown them  the tech, you've shown them the demo and we're ready to sign for a paid  pilot that a lot of folks are saying, "This is great, I need it to  do everything right now." So there's a bit of a gap between where we are  today and where we need to be where we could close them a lot faster,  and that's kind of where we're coming in with these creative ideas of how do  we monetize what we have today and then work towards that goal.
+Avichal Garg: What is that gap exactly? So they want the full AI and just produces a  price quote?
+Zack: Correct, yeah. Are you going to expand on this?
+Sid: Yeah. You can imagine that we're detecting about 40 objects today, so we need to  scale that to 150 objects. Because we're using video we need to track these objects  across frames, so we understand that this is one chair, even though I'm seeing it  from the fifth-second to the fifteenth-second. So we need to identify the size of the  object, because that contributes to cost as well. So there are multiple things that we  are doing to ... So we are working simultaneously and making progress and all of  these-
+Avichal Garg: And are they willing to sign LOI's that say, hey if you have this, we  would give you $10,000 a month?
+Sid: Already signed.
+Avichal Garg: I see. And how many of those LOI's do you have?
+Sid: So we have more than a half a dozen of LOI's already signed, so we're  still working on the contract dollar amount. With a few customers we are in the  final stages of figuring out what that amount actually is going to be.
+Avichal Garg: And how are you pricing that? For the ones that you do have signed, how  have you priced it?
+Sid: For the first year we are pitching a flat fee, so a few hundred thousand  dollars, where they can use our product as much as they want where we actually  work together with them in refining the process of how consumers actually use that technology  to get a quote.
+Avichal Garg: I see. So the total contract size or each contract is worth a couple hundred  thousand?
+Sid: So we are looking at signing a maximum of up to three in the first  year for a few hundred thousand dollars.
+Avichal Garg: I see. So can you just, to Adora's earlier point, can you just hire two  people to do this full-time and go get a couple hundred thousand dollars from these  guys and say, "hey we've got AI that's as good as a human" because you  literally have a human?
+Sid: That's what we're doing. I mean that's our goal once we sign this, but they  also want more, a turnaround time of a few hours, so that's something that we  are working with actually. That's a very good point.
+Adora Cheung: What is your turnaround time? I guess you're optimizing for this at this point.
+Sid: Yeah. It depends. We can have a turnaround time as less than one hour. It  just means that we need to make sure that we have someone on-call 24 hours  a day. So we know the NA spits out the analysis, they're able to clean  that.
+Adora Cheung: You might actually just want to figure out what the labor costs there for now  as you're building up this data and then just price accordingly. So it might not  be ... So right now you're charging $10 or something, $50 and it might right  now due to the labor costs because you don't have all the data and it's  not accurate enough, it might be $100 cost to you, so why not just charge  something a little bit above that? It will knock out a number of people who  won't pay that much, but at least it'll get you going with real customers.
+Sid: So with the large enterprise customers we are pitching a flat rate. So with the  smaller guys we are pitching the $10 and $50 just to get more data through  our pipeline. But maybe that's a good idea.
+Adora Cheung: Why are you pitching a flat rate with the big customers?
+Sid: Because this is very new to them and we want to make sure that they  are incentivized to use it as much as possible. Pitching on a per use fee  we feel like maybe-
+Adora Cheung: Do they already have estimators? Because you're replacing them in some sense down the road  right?
+Sid: So I don't think, initially the target is, let's say you have like a five-bedroom  or six-bedroom house, they may still want to send an estimate role. But there's a  significant, maybe 75% of the cases where they don't really send an estimator. So initially  based on our conversations they may start using us for that specific segment of the  market before-
+Adora Cheung: This may be getting a little bit into the weeds, but one of the advantages  of sending an estimator is you're also a sales person and so they close the  sale for them. It might be that especially if you're going to a huge house,  that could be a lot of profit for them. They wouldn't even want to just  send it off somewhere else. So maybe as you also, this is a tool for  that estimator right to go faster and they can get to more houses.
+Sid: Yeah that's one of the options that we are working with one of these companies.
+Adora Cheung: Okay, got it.
+Avichal Garg: So what does this become? Suppose you're successful, you get a bunch of contracts, then  what happens?
+Sid: So again, we started with moving, but we've also found opportunities in other parallel verticals,  like painting and home renovations and so on. Where the data that we are collecting  and the AI that we're training will help us get to our solution faster. Our  goal is solve the problem for one industry and go horizontal to the second industry  and so on.
+Adora Cheung: It seems like something like painting would be easier.
+Avichal Garg: Yeah I was just thinking exactly that.
+Adora Cheung: Because it's just like square footage almost.
+Avichal Garg: It sounds like so much easier for them to sell.
+Sid: It's actually slightly more difficult because if an on-sight estimator comes to estimate your painting  areas, whether it's like all these furniture that's blocking the views of the walls and  so on. And also getting scale is important in painting, so we need to get  to the square feet level. So we looked at it and then we think that  the moving is an easier problem to solve actually.
+Avichal Garg: Technically speaking.
+Sid: Technically speaking.
+Adora Cheung: I think this is such a huge business. If you guys can eventually just solve  the estimation problem, the pricing problem, you've solved 90% of the headache that all these  lead generation, home service lead generation sites.
+Sid: We agree.
+Adora Cheung: Yeah, so it's like a billion dollar, this is the next Google potentially right? Yeah,  congrats. You should apply to YC.
+Sid: Yeah, looking forward to that.
+Avichal Garg: Good job guys.
+Zack: Thank you.
+Avichal Garg: Thanks.
+Adora Cheung: Hi, Adora, nice to meet you.
+Avichal Garg: Hey, Avichal, good to meet you. So tell us what you do.
+Speaker 9: Hello. Can you hear me? Yeah. So we are Alma Base, so what we do  is we help schools build and engage them in the communities. So currently schools have  a problem tracking their alumni once they graduate and alumni experience is very broken. The  moment they graduate, they keep getting this giving solicitation emails and nothing much. So with  Alma Base what happens is you can create a private alumni network where your alumni  can sign up using the universal log ins like Facebook and LinkedIn and then they  can engage with each other for mentorships, for job opportunities, or for signing up for  the reunions and such things. When those alumni are engaging, the schools would get insights  like, all right so how was this particular user engaging, this alumni engaging with our  Facebook page, how many times he has liked us, or how many times he has  commented, also insights so that they can prioritize their alumni and then they can reach  out to the right alumni for different opportunities.
+Adora Cheung: Is this for colleges, high schools?
+Speaker 9: And schools, yeah K-12, independent schools, and universities.
+Adora Cheung: Do they all have the same problems in terms of reaching out to alumni?
+Speaker 9: Yeah. So universities definitely have a different problem because they are at a different scale,  but schools have a different problem. The biggest problem that the schools have is they  do not have updated alumni data because the moment they graduate-
+Adora Cheung: So it's just a basic, like all they need is currently just a basic CRM  and it'd be 100X better than what they have.
+Speaker 9: Kind of. Kind of. But the way that they get the data into the CRM  is by the social media that's the key value that we provide. So the moment  you sign up, we get your profile information from Facebook, education, your employment, your current  location. So if someone has moved from like San Francisco to Boston and they update  it on Facebook it automatically gets synced here. Currently the way schools are tracking it  is by either putting up a Google Form on their alumni tabs on the school  website or by asking them to email or doing phone , which is like-
+Adora Cheung: So isn't part of the problem just connection to that person? So once just emailing  them and they actually seeing the email and then converting that person?
+Speaker 9: Yeah, but it's quite difficult. Like how many times you have responded to any of  your school emails and then once you get the input from the email, then you  are going to need to put in some other database and you always need to  manually update the database, an Excel spreadsheet or something like that.
+Adora Cheung: Which type of customer are you focused on right now? High schools or colleges?
+Speaker 9: High schools, like K-12 high schools.
+Adora Cheung: Interesting.
+Speaker 9: The independent ones.
+Avichal Garg: From the end user perspective, why would they want to sign up? They're going to  have a Snap Chat and an Instagram, a Facebook, a What's app, a Facebook messenger,  a phone, an email address, a Slack, and this?
+Speaker 9: Yeah I got it. This is something that a lot of people ask me every  day. But in startup school, in our group I just posted to say, how many  of you want to join a new network of your alumni and why do you  want to join? So everyone was like, yeah we want to have the private network  because LinkedIn and Facebook are public networks, but they want to just be in the  close-
+Avichal Garg: Why doesn't the Facebook group just solve this?
+Speaker 9: The Facebook group doesn't solve it because you cannot actually link to each other for  job opportunities or for mentorships for one thing.
+Avichal Garg: What do you mean? Why not?
+Speaker 9: Sorry?
+Avichal Garg: Why not? Why can't you just message somebody if you're in the same group?
+Speaker 9: No, but I mean how many times do you actually get those notifications like, I  turn off a lot of my groups and then each of the groups is like  seven person these days because Facebook really wants to promote ads or something on the  groups, so it's quite difficult in terms of that engagement on Facebook groups.
+Avichal Garg: But why wouldn't the same thing ... So if I followed your logic, you basically  said, you could theoretically join a group, then people could reach out to you, they  can like your stuff, they can post a bunch in the group, and Facebook will  notify you because there's stuff happening in the group, that starts to get annoying, so  you turn off the notifications.
+Speaker 9: Exactly.
+Avichal Garg: Why wouldn't the same thing happen for you?
+Speaker 9: Yeah so here you can actually, I'll setup different notifications. Like when they're signing up,  we ask them, how do you want to contribute back to your community, is it  by mentorship or is it by providing job sharing opportunities or by giving or volunteering  or planning the reunion? So ask those and based on that they can configure notifications  and they would be getting a digest based on these settings.
+Avichal Garg: I see.
+Speaker 9: Yeah. So you wouldn't be getting all the common ones. For example, the class of  1990 is having a reunion and you're in the Stanford group and you're from the  class of 2000 then you actually wouldn't want to see that right. That's an annoyance  for you. It's not relevant for you and the group.
+Adora Cheung: How many schools do you have currently?
+Speaker 9: To be precise, 94.
+Adora Cheung: And how many per school, alumni per school are on your thing?
+Speaker 9: So on average it's 5,000 and it goes to like 15,000 depending upon the boarding  school or the kind of school it is.
+Adora Cheung: 5,000 alumni per school.
+Speaker 9: Per school yeah.
+Adora Cheung: Are on your site.
+Avichal Garg: You have like how many schools?
+Speaker 9: Ninety-four.
+Avichal Garg: So you have 450,000 people?
+Speaker 9: No, we have our own like a million records, like some schools have more and  we also have signed up some of the universities and of that, like 25 people  have signed up on the platform. Some of them are still have yet to sign  up on the platform.
+Adora Cheung: And what are they doing when they sign up to the platform?
+Speaker 9: So one thing is the admins, like the alumni relations office, they have different tools  where they can post content and a weekly digest goes. So they come and they  consume this content or they respond to any of the things, like there's a section  called "needs". If someone wants any help they can just post there, so they come  and they respond to this. This is actually the data where at this point in  time or is there any job postings, they just come and apply if they are  looking for job opportunities.
+Avichal Garg: Yeah. So if I'm the office that's ... Who's actually buying this? Who's making the  purchase of this?
+Speaker 9: The school is buying it.
+Avichal Garg: So who inside the school is making the decision?
+Speaker 9: Alumni relations office, not the association, but the alumni relations office. So every school has  a development office in which the alumni relations office is a part of, so they  buy it.
+Avichal Garg: I see. And how are you pricing it for these people?
+Speaker 9: Yeah we are pricing ... So we have three different plans, but the pro plan  is something we just a lot of our features, which is $5,000 per year.
+Avichal Garg: Per year.
+Speaker 9: Yeah.
+Adora Cheung: It would seem like one, to get these users it would be right after they  graduate. But two, something, I feel like the missing feature here is something along the  lines of school spirit. I can't articulate it right now, but this is what's not  on ... I'm trying to say is a lot of what you're building is already  on Facebook or these other things and people naturally create these groups actually. Maybe it's  not the entire school, but it's their friend set. Like I'm in a group of  100 people at my high school I think. But what I ... I don't know.  I'm not sure where I'm going to right now, but I think the way to  capture these people and the alumni folks, the administrators, can capture some kind of school  spirit thing where it gets them back to the other site.
+Speaker 9: Exactly. If you look at it, the reason why you do not want to give  your contact information is because the school is not providing any value to you at  this point of time. But if they could provide some value, hey, there are so  many mentors, if you want any mentorship can you just come here and we'll be  helping you. Then there's a student aspect there. For example, the graduating class, like in  the high schools especially when they're going for their college applications or something, then the  counseling offices in the schools they can just match these people and then help them  get a better counseling regarding their college. So these kind of small things that they  can do at this point of time, which I think is not so structured in  Facebook groups or anything of that sort. The key thing here is the alumni office  can take control of all of this, like what is the active duty which is  happening, which is not possible .
+Avichal Garg: What does success look like for the alumni office? Like in a year they have  to renew the contract and buy again, how do they decide whether or not to  give you another $5,000?
+Speaker 9: So I think it's about the number of alumni that sign up and then the  kind of enrichment that they get in the data. For example, one of the schools,  so they have only like 600 records, but their total alumni is like 8,000 people.  So we also have an invite tool where they can invite folks via Facebook and  LinkedIn, so now they have 1,800 folks in the first six months.
+Avichal Garg: So why do they want those records?
+Speaker 9: So again, for giving or for knowing the preferences and engaging them better and providing  them more value.
+Avichal Garg: It sounds like there's some downstream metric. Let's say I'm the alumni office and I  got all 8,000 records in the database and I'm the principal of that school, do  I just fire the alumni guy. That person's out of a job now because they  got all 8,000 records?
+Speaker 9: I think the place where they're going to use it is for example, it's for  mentoring, which is a huge value that we are thinking, but even if the alumni  office are not really, they do not know what are the key metrics, so we  are also trying to help them build those KPIs along the way when they are  working with it.
+Adora Cheung: It sounds like the answer would be similar along the lines of donations per alumni  coming in right.
+Speaker 9: Yeah that's the end goal. So if you look at a final-
+Adora Cheung: So what are the tools ... Then you have to build them these tools right?  So you've got all these people in great. Now how are you going to get  these people to donate?
+Speaker 9: How to donate? So we have a fundraising module where you can put different campaigns,  like okay this is the annual campaign, this is a campaign for a particular building,  and then you can make donations on some already, this is in honor of my  son or pet.
+Avichal Garg: So if that's the critical thing, like the alumni person is trying to figure out  how to get more donations ultimately, why do all this extra work to try to  get ... Like why not go through their existing channels and help them optimize what  they're already doing?
+Speaker 9: Sure. What we have seen is when they are just doing this sole station for  those donations, actually the donation rate has come down. For example, in the schools, it  has actually come down when compared to the alumni, 300 users just donating to nonprofits.  These days they are just donating to cause and not to the schools or anything  of that sort. So what we believe is, the premise or the hypothesis that we  have is engaged alumni would eventually turn out to be donors, so that's why all  of this. So you need to provide value before and then ask them. Don't just  ask them.
+Avichal Garg: I see. And is there data from ... This sort of software has been around  for a long time. I have to imagine. It's effectively CRM software.
+Speaker 9: Yeah on the backend yeah.
+Avichal Garg: But I get emails all the time from organizations that I've been involved with that  try to engage me and have programs. Is there data that says yes if you  engage your alumni they will actually donate more?
+Speaker 9: Not yet. I mean we have been for 18 months.
+Avichal Garg: No, no, from other software. There's mailing lists right, so are people who are responding  to mailing lists more likely to donate?
+Speaker 9: That's what the schools say at least. We have been ... I asked them, who  are your current donors, so they say, yeah these are like alumni who are engaged  or who are teaching or who come here for guest lectures or who regularly respond  to our emails. But we do not know the exact numbers, but that's what we  get a sense of.
+Avichal Garg: Interesting.
+Adora Cheung: Is there a reason why you started with high school versus colleges? Because it seems  like colleges have much bigger budgets for this. In fact they have entire offices for  this. And then the alumni have more money to donate.
+Speaker 9: Sure. Sure. So is with the schools. Surprisingly, so is with the schools. But the  reason why, we initially went behind colleges, but then the sale cycles were really long.  There is a lot of donation making process and then the procurement process and some  building system in some universities.
+Adora Cheung: But if that's where all the money's at.
+Speaker 9: Yeah we'll eventually go there. We'll eventually go. Like one, several times, so we are  just doing.
+Adora Cheung: But I think the tools you build for high school alumni administration are much different  than the college ones.
+Speaker 9: Eventually. Yes, so we are-
+Adora Cheung: I think what we're suggesting is-
+Speaker 9: Go to just the high schools?
+Adora Cheung: Well-
+Speaker 9: Universities and not the high schools?
+Adora Cheung: We talked to you for 10 minutes, so I wouldn't pivot the entire thing right  now, but I would really think hard about the market opportunity between high school and  college.
+Speaker 9: No. I agree that the market opportunity is huge with universities. Just the pure paperback  math says that. But the only thing is, it's a lot more sale cycle and  it's just stagnating with growth at this point of time, but with the schools they're  eventually two people in an office. If you both agree to buy it, you just  buy it. But in a university, you are the alumni relations director, and you are  a second director and you both agree, now we need to go to the development  director and then you need to go to the VP of advancement, the institutional advancement  and then the procurement office.
+Adora Cheung: Yeah, but once you figure out that sales price process, I know it's difficult, but  once you figure out, it's probably similar in all colleges. Then you just optimize that  and get really good at it, and then people will start coming in faster right.  But it is a pain to get it setup.
+Speaker 9: Yeah. So what we have seen is like for example, there are other players in  this market. So we have, we are just tracking of what rate they are also  closing the higher ed if they are selling the higher ed and we are talking  to a few people. So they say it's eventually how much ever, I don't know  whether they have really cracked the process, but they have nine to 12 month sales  cycles. It's a long relationship building process. They initially need to meet the champion, then  they need to echo with them. It's really, really long sales process.
+Avichal Garg: No, I mean, that makes sense. That makes a lot of sense. I think the  risk really is that you end up, the thing that you want for high school  is actually very different than the thing you want for colleges.
+Speaker 9: Sure.
+Avichal Garg: And so actually you have now built a product for this market that can't go  to the more valuable market. You end up in this niche that is great because  it was faster to win that niche, but it doesn't translate to the bigger, more  valuable niches like the risk that you run with that strategy.
+Speaker 9: No, true, but there is a slight overlap in the kind of tools that we  are building. So I feel that once we get some insights here and then we  also have a couple universities I think eight universities currently using us. So based on  those insights, we are keeping a close eye on them, and depending on that, once  we build enough success stories with them, like a case study, then we have a  much better social group, which might be helpful in optimizing the sales process.
+Adora Cheung: You might want to start, I think this is what Avichal was getting at earlier  is, the people at the colleges, they already have a system in place, Millingless Marketing  campaigns and stuff like that. Maybe you don't initially replace all of it, but maybe  talk to a bunch of these people and maybe you can build tools to help  them do something. I don't know what it is, but something better. And then start  from there. It wouldn't cost as much, but it gets you in the door.
+Speaker 9: Sure. Sure. Yeah.
+Avichal Garg: Sorry, but the other big thing, everything that you're saying makes a lot of sense  in the near term. If you look at, there's this great story it's like the  very first banner ad on the internet had like a 73% click through rate or  something insane just because nobody had ever seen a banner ad. They were like, "what  is that" and everybody clicked on it and obviously people don't click on banner ads  anymore. I'm sure when notifications had crazy CTR and they still have actually surprisingly good  CTR. So the risk you actually run is by trying to build your own distribution  channel that you end up having the same thing happen to you a couple of  years from now and then you're in a tough spot. When actually to me, it  sounds like you articulated it really well is the crux of what you want to  do is help these people raise more money. The channel is just the means to  helping them raise the money. Another way to attack it is like, okay well if  you want to raise money, what are the 10 things I could build for you  that would just raise the money, rather than needing the channel to raise the money,  which is just one tactic to get there.
+Speaker 9: Sure. So like a pilot, so what I'm doing is I'm volunteering with one of  our customers in the Bay Area school who is doing this specific fundraising campaign. So  we are building some tools for them to understand that exact problem. What of these  tools are required, if at all, we need to just only sell the fundraising aspect.  Give it for free and maybe take a cut, which makes the donation making process  very easy. So we're volunteering and kind of working and feeling out what is there.  We're still in fundraising.
+Avichal Garg: Yeah. Maybe to put it a slightly different way. It seems like there are already  a lot of channels out there between mail, email, Facebook, LinkedIn, whatever, messengers, text, and  building yet another channel creates a lot of product risk for you, but actually just  helping them raise the money better through the channels that they're already trying to manage  would be a different way to approach it. You might be actually go after a  much bigger market.
+Speaker 9: Sure. Actually I have, I think that's the biggest challenge that we are facing also.  Initially we built these tools for the alumni relations office where in the backend they  can do all of this because they are the ones who's making the purchase at  the end of the day. So they need to immediately see that instant gratification of  improving their work. But getting the alumni to sign up is a big challenge, like  you were mentioning. So yeah, that's a big product challenge that we have.
+Avichal Garg: Like I could imagine literally, if you just made it easy, some of the places  I donate, you click through on the link and you're like, wow I'm trying to  give you money and you're making it so hard. I can't donate on my phone.  Forms and they don't fill in properly and then they validate improperly from the job  descript. I'm trying to give you money, why is this so hard?
+Speaker 9: Yeah.
+Avichal Garg: I can imagine literally you would just, the alumni office would be so happy if  their conversion went from 5% to 12%, they would just make more money.
+Speaker 9: Yeah exactly. Yeah that's what we are trying.
+Adora Cheung: Great. Cool. I think that's it.
+Speaker 9: Sure.
+Adora Cheung: Thanks so much.
+Avichal Garg: Thank you. Good job. Yeah sure. If you guys have any questions, open Q&A. Any  questions? No?
+Speaker 9: Yeah I had a question.
+Avichal Garg: Yeah ask, go ahead.
+Speaker 9: Yeah, so one of the challenges we face is for example, we have international founders,  there are . So we are not able to get close to our users. So  what is the generic advice in terms of in that situation how do you actually  get to understand your users better?
+Avichal Garg: Why are you not able to get to your users?
+Speaker 9: So-
+Avichal Garg: You're here right now right?
+Speaker 9: Yeah, but after a point of time I need to again travel back and then  again come. So we are like switching our roles, like three co-founders, so each of  us come at different times and then we stay and then we work with the  schools. But that has been an ongoing challenge for us.
+Adora Cheung: I think, are you at based, where are you based?
+Speaker 9: Here in Mountainview.
+Adora Cheung: Mountainview. And who are your users that are elsewhere?
+Speaker 9: So there are different schools right. So the schools in the Bay Area.
+Adora Cheung: So-
+Speaker 9: They're from different states, sorry.
+Adora Cheung: Oh I see, okay. Well I mean, I think you should ... The main thing  is establishing a relationship with these folks and so sitting down with them for a  little bit, for I don't know, a day or a week and get the workflow  going is one way to do it. Then obviously you can't be everywhere at once,  but I think you can build a lot of product and you don't have to  be right next to them.
+Avichal Garg: I think there's like two general classes of way to do this. There's a qualitative  and there's a quantitative. On the qualitative you can, there's all different scales. You can  literally have, there's one-on-one studies that you're doing with users, you can have a forum  that you create online, there's user feedback software that will give you a bunch of  good qualitative feedback and as people upload something it gives you some signal. I've seen  companies use what they would call like a client counsel. What you do is you  take like a representative sample of 12-15 people, you bring them in once a quarter,  once every six months, you show them new stuff, they're NDA'd, they talk through it,  they give you qualitative feedback and it's like a very targeted way to do this  all in one sitting. And then there's all the quantitative stuff. So there's all these  metrics. Ultimately your KPI's and there's only really four classes of metrics. There's like how  many people use your stuff, how deeply do they use your stuff, how good is  it at doing the thing that you say it's supposed to do, and how much  money do you make? And all of your metrics basically roll into those four. When  you're building features you're just mapping against those things and you see whether those numbers  move. So between those two you should be able to triangulate whether or not a  thing is working.
+Speaker 9: Thank you.
+Avichal Garg: We have more time? We're out of time.
+Speaker 1: I think that's it.
+Avichal Garg: That's it. Cool. Thanks guys. 

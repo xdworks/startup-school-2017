@@ -1,176 +1,322 @@
-- 下午好。所以今天我们会做一些不同的事。我们在YC了解的事情之一，是了解新创公司的最好方式之一。观察其它新创公司得到建议，所以我们将进行现场办公时间。我们之前在此课堂做过三或四次，我们试图每次进行三家公司。这是尤里，也在YC工作，将与我一起做这个。将给三家新创公司建议，做这个你们必须非常勇敢。所以我非常感激同意做这个的新创公司，这些是在线参加课程的一些人，我们开始吧。
-
- ，你想要告诉我们吗？首先，你想要介绍你们自己吗？这有用吗？所以我是莎拉，这是我的联合创始人安德鲁。嗨，我们在建立坎尼，坎尼帮助团队搜集和管理来自其用户的反馈。基本上它是团队可以将我们的产品整合到他们的网站或移动应用。这允许其用户发布和给出自己的反馈，它是现场的吗？
-
-- 是的
-
-- 多少？
-
-  -　所以多少网站整合了？是的，我们大约一个月前对产品搜寻，运行了我们的mvp 那是非常好的流量，我们有 25个付费的客户。这些是整合或以某种方式使用我们的人。是的，我们从产品搜寻活动得到大约500家公司。
-
- - [山姆] 那很棒
-
- - [尤里]你们收费多少？是一个范围。在低端，我们有一个两美元计划，是我们高级版的替代，便宜高级版。并且它从19.49到129，它非常非常早，我们在试图对此进行迭代，确定我们最好的价格点是什么。这可能是现在我们最主要的挑战之一。我认为...
-
- - [山姆] 继续
-
- - [山姆]你如何到达第一个数字集以进行测试？我觉得两美元的有点特殊。
-
- -，我们在高级版和便宜高级版之间来回。我认为那是个好决定。因为它很大地缩小了我们的潜在客户，我们认为不向我们付费的人永远都不会 向我们付费。这25个客户有多少在两美元计划上？可能 七个？是的，那很棒。
-
- - [山姆] 其它最受欢迎的计划是什么？19？
-
- - [莎拉] 19
-
- - [莎拉] 19，我们非常严重地限制我们的两美元计划。所以它是可能像独奏创始人的人。
-
-- 不到一百用户，可能没有收入。你如何决定定价你能得到什么的？我认为我看你的网站，它是你有多少用户？
-
-对的。所以现在我们根据你有多少终端用户收费，这是我们对公司将从我们的产品得到多少价值的代理，这是一种挑战，特别是因为我们不能具体判断他们有多少用户。所以，我们也在对此进行迭代。人们关于此喜欢什么？
-
-为什么他们使用你们的产品而非很多其它服务之一以实现相同的目标？你从发布和投票特色得到很多不同的价值。其一是，你有很多透明度。所以你将你的用户保持在循环里，很多当前的反馈解决方案是像电子邮件和在线聊天，用户发送电子邮件。
-
-公司说：哦，我们会把它传给团队，这是必然发生的，用户并不知道我的声音被听见了吗？我们从团队和用户那里听到 这是很棒的体验 他们的用户很高兴，他们知道其用户给出什么反馈，相比电子邮件和在线聊天，要花很多时间处理所有这些对话。使用它的人，目前为止发布在其之上的问题的平均数量是多少？
-
- - [安德鲁] 问题的平均数量？你指什么？是的。所以人们提出他们投票的请求或其它东西，你知道25个付费客户平均多少有问题发布？它依赖于 他们有多少终端用户
-
- -　对的。以及他们执行我们的工具如何，如果不那么可发现，他们会得到更少的反馈，我们通过给他们设计建议，试图帮助这个。但是，像我们的顶端团队可能有300个发布。关于此相比电子邮件，是你可能得到如果一个发布有100个投票，你可能得到100封不同的电子邮件。所以我们通过一下回应所有这100个人，而非来回发送个别电子邮件 帮助你节省时间，你感觉你到了你有 一些人确实非常喜欢的产品的点了吗？在此点，如果如此 首先，你觉得你在该点了吗？是的，我感觉我们有一点产品适应市场 一些人对我们的产品 极端高兴，我们知道我们需要做的接下来的 接下来的步骤 扩展10倍 覆盖 更大部分的市场
-
- - [尤里]步骤是什么？与其它SAS服务 如 Intercom Slack Zapier整合。然后移动上更好的回答，你们现在面对的最大的挑战 是确定如何发展和规模化这个吗？你认为 或者是仍然有很多产品工作 不是整合 驱动发展 在你们确实想要规模化之前 仍然有很多产品工作吗？肯定有一些产品工作。我认为核心产品很好 要让我们的客户坚持 使用我们的产品要花一些时间。因为他们必须整合进 他们的产品。所以这是很大的投资
-
- - [山姆] 整合有多容易？非常容易 确实很容易 花半小时到一个小时 这是我们看到开发商所花的时间。但是我们需要更好的上手体验 以向他们证实这是值得做的。我认为现在我们的漏斗有漏洞。所以这是我们的方向 上手体验，你们最大的价值是什么？所以你们最大的用户有300个问题？或者几百个问题？
-
- - [安德鲁] 几百个
-
- - [莎拉]但是也有投票。对的。所以你们看到它的最大的价值是什么？他们告诉你什么？很难。因为。因为我们很多增值是非常多样的 一个是客户满意 另一个是产品管理，你知道你想要进行什么，另一个是有透明的路线图。所以将你的客户保持在循环中 有所有这些不同种类的价值 有一个核心价值 这也是为什么难的原因 那听起来像个错误
-
- - [安德鲁] 一个错误？几乎所有这么说的人。哦，我们有所有这些不同的价值，你知道有人们喜欢它的所有这些 不同的原因，如果你能够确定所有这些 如何抽象进一个消息。然后建立 所有公司的销售和影响以及PR，那很好。-核心价值奖是什么？这是它所关于的 不是说：哦 有 使用产品的六个不同的原因。我认为当你说你与整合你的 人有问题时 事情之一 没有那么难 只是没有高到在其优先清单上 有一些解决这个的方式 有作用的一个是派人 说：嗨，我们将派一个工程师 帮助与你们整合 不是公司不能做它 只是 否则你将总是在其 积压的底部 那是一种方式。
-
- 另一种是如果他们的CEO告诉他们去做它 或者他们自己决定，我要做这个，它非常重要。那几乎从不来自 是一堆好消息的 一堆不同的消息，它就像一件事。可能在这种情况下是用户反馈的某种版本 以及如果你没有这个，你将如何比你的竞争者 更慢地整合 或者你们的用户会感到，你们更专注于他们，如果听你们想要建立的特色，我有两个大问题。第一。我认为信封数学之后总是很重要的，我担心这是那种业务，如果你们大多数销售给新创公司，让我们说，你们以平均一百美元销售，它是一个月还是一年？
-
- - [安德鲁] 一个月 一个月 就像此业务实际能从此模型 发展到多大？你们考虑过这个问题吗？考虑过。我认为 只要做餐巾数学。我认为就新创公司，你们通常 想要达到大约 1亿美元年收入。所以对于我们 现在看起来像我们有 10000个人每月付给我们100美元
-
- - [山姆] 那感觉可行吗？可能是100000。是的
-
- - [尤里] 那不一样 嗨。我认为数量
-
- - [山姆]我认为是100000。是的，100000 对不起。我认为需要反馈的公司数量 和网站与移动应用的数量 在增长，你感觉有100000。所以其部分就像，你感觉你将必须拥有 新创公司市场的50%以达到那里吗？或者你认为那里有足够的需求，你可以实际到达市场 不用 支配整个事吗？我认为 另外，我们得到反馈我们实际 可以收费更多。所以我认为有一些我们 可以建立的特色 会帮助很大
-
--
-
- - [山姆]你们使用 -包括分析学
-
- - [山姆]你们自己的产品吗？肯定 那是确定它提供价值 的很好的方式
-
- - [山姆] 再次。可能回答是 收费更多。可能回答是 有100000家新创公司。可能回答是你需要，你可以以取悦很多 新创公司之外的人的 方式调整产品。我认为新创公司几乎从不 足够早地对此做很多，它确实通知产品策略，它也到我下一个大问题。这感觉像那种 可交换的服务 很多人可以建立 相似的服务，如果一家公司使用产品A 另一家公司使用产品B 没有理由第三家公司 偏好A或B 没有网络效应 没有垄断 现在，我可以想象你们可以将 这些之一建入产品的方式 有跨公司激励 使用你们的。但是你们成为垄断者而非 另一家SAS公司 竞争到 零利润的计划是什么？这是个很好的问题。我认为如果你还没有回答也很好，你不必须 目前为止我们的策略是 追逐影响者 他们包括有也会使用，我们的产品的用户的人 例如，我们追逐开源项目 以及像Optimizely这样的工具
-
- - [山姆]你们免费赠予开源项目？开源项目是免费的。是的，作为gethub和gethub问题的替代方式，它们给我们带来很多人。我认为它对于，我们是很好的驱动。但是目前为止我认为我们的策略是 将我们的产品放到公众面前，它是由坎尼驱动的 那是我们追求的。所以，你们对此有想法吗？一个小想法。我认为目前为止我们发现的一件事 是市场上有做这个的 其它产品 在我们的产品搜寻活动期间，我们有来自这些产品的人 想要使用我们 他们提到的喜欢我们更多的是设计和简单。我诚实地感觉我们的产品 现在在市场上所有的产品中 是最好的设计和最简单的
-
- - [山姆] 这也是我们要做的，我们做的，我相信你们那是真的。但是问题是每家新创公司，我遇到的三家新创公司有一家说，我们是这个其它的，除了我们是更好设计的，我们更美丽，我们使用起来更简单。可能真的你们是。我相信你们是的，其他人可以来对你做同样的事 更重要的是 不必需是更重要的。但是经常你开始非常简单。然后你开始必须建立特色。因为你看到它们缺失。然后其他人上来说，我们现在是最简单的。但是在任何情况下。
-
-，它很好。你建立了人们喜爱的，你让他们为其付款，你有你相信会有用的发展渠道。那置你于顶部如所有新创公司的百分之几。所以那很棒。但是此时，现在你最大的问题其部分。你知道，当你应当考虑的一件事是：我早期可以做什么：建立一个产品 A 可以最终覆盖很大的市场？ B，我如何能建立一种垄断？我如何能建立起一个东西。因为这家公司使用我的产品，这另一家公司更可能 也使用它 设计和简单 虽然每个人都说它 真实的是，它通常不是长期赢点 在某种程度 一旦你被整合进了 一家公司，你不可能扯掉。然后你将赢得心灵共享战争 会是那样的
-
- - [莎拉]我认为那是我们看到的。实际上。是的，更好的回答是，如果有某种方式你可以 在所有公司使用 聚合数据或知识 或者共享 就像用户 对产品留下反馈的那种用户 在他们建立和使用的所有产品 这么做。所以可能有很小百分比的 用户给反馈 他们对所有产品这么做。所以我的感觉是在那里某个地方 是建立垄断的策略。但是你想要确定该核心是什么，使其 将其建入产品的核心 这样你有长期可防御策略 这实际上非常有趣。因为我们可能在更 总体的水平开始 每个人都可以对任何东西发布反馈 那很难。因为公司首先不在船上
-
- - [山姆] 那也不 感觉正确。是的。所以现在我们决定 用另一种方式 有可能一天，如果对于多个产品的发布使用坎尼，我们连接所有用户，我们可以连接所有那些人。可能那里最终有潜力 为什么它叫坎尼？
-
- - [莎拉] 坎尼很难找到，我们试了很多不同的名称。但是我们的产品的一个核心部分是子域，我们不想使用像得到这个 或试这个或使用这个的东西
-
- - [山姆] 短且甜。是的，短且甜的东西，我们得到了Canny.io，它不是最糟的 也不是最好的，你们仍然可以改 还不太晚
-
- - [莎拉]是的，我们仍然可以改，我觉得它是关于非坎尼的游戏
-
- - [莎拉] 实际上它们不同，它指做出好的判断。所以我觉得那也很好，如果它有用 人们记得它，如果他们拼写它正确 就很好，你想说点别的吗？是的，我指总体我认为 到你的点关于广泛使用情况，我们的产品发行后 很多人使用坎尼。因为不同的原因。所以。我认为聚焦于 -
-
- - [山姆] 有没有一个原因 浮出水面。是的，顶部的是特色请求 这是我们期待的。但是我也认为定价是大问题之一 如确定我们的主要价值是什么，那是我们试图做的，我们想要隔离这个东西 特别是在我们的主页上营销它，我们如何 用一个价值把人们拉进来？特色请求听起来不像用户参与 那么好听，我不知道，我不，我将愿意 这是我相信 AB测试的地方，我不为所有东西相信它。但是在消息传送和通信方面 当人们第一次来时你们放在，你们的网站上的 大大的四个单词是什么？这是我相信AB测试的地方，如果特色请求确实是人们想要的 那么很棒
-
- - [莎拉]是的，你把它放在前边，如果那时起作用的，你应当至少 那至少是正确回答的候选 好的，我们应该继续到下一组
-
- - [莎拉] 谢谢 谢谢 谢谢 谢谢 谢谢
-
--，你好 山姆 -嗨，你好 克里斯 嗨 尤里 克里斯，你好 顺便说：之前我并不知道任何这些公司 是做什么的，你会从我这得到很广的反应，你想要介绍一下自己吗？大家好，我叫克里斯·贝尔特伦，我是Tummel的CEO和创始人，我们做的是，我们连接房主 私人地产 业主 和各种停车场业主 到我们的应用，我们的应用所做的是聚合 他们的停车空间 让他们租出 业主能够得到一些被动收入 停车者可以在其想要时 去停车场 轻松且快捷 此工具特别是为旧金山的 高度工业化的城市 在那里人们需要更轻松快捷地停车 而非绕着找停车的地方
-
- - [尤里]，它就像停车Airbnb。基本上是的。是的，我想要看到这样的 东西很长时间了。因为感觉在城市 如旧金山 没有足够的 街头停车场。是的。但是现在问题更多是 这是感知问题。还是实际问题。
-
- - [山姆]你们现在在城市在线了吗？我们在城市还没在线，我们当前在建造MVP 现在
-
- - [山姆]明白 不幸的是我的联合创始人不在这 她在墨西哥度假，我觉得她在旅游。所以 提醒你我不是单独创始人，我也有一个联合创始人 没问题。所以同时你与房主 谈话了吗？他们愿意租出他们的停车场吗？你知道吗？有趣的事是，我实际上是下地，我实际上是身体出去到这些家庭或私人停车场告诉他们我的想法。说：嗨，为什么您不使用我们的平台？这是它将看起来的样子，我陈述我们的实体模型。基本上说：这是您将基本 上使用的平台
-
- - [尤里] 他们告诉你什么？经常他们说：这太棒了 为什么其他人没有创建这个？
-
- - [尤里] 他们愿意说：嗨，我准备好付款了吗？或者 他们会对你付款吗？不，你要付钱给他们，你要向他们付款，你会与他们粗略共享 对吗？正确。所以基本上 当 通勤者在他们的停车场停车时 发生的销售的一个百分比，我们收15% 他们收85%。所以你能注册他们吗？对于你来说事情的部分是 当你在城市中运行时，你想要与想要的停车场 一样多的关键人群 他们愿意注册并说：嗨，你准备好时，我的停车场就是你的了吗？当前我们所做的是，我们创建清单，我们向他们 推出我们的想法。
-
- 所以基本上我们试图要做的，我们在试图容纳整个旧金山的 整个旧金山的 适用或按照旧金山 标准的 所有房主和私人地产业主。因为你不能停车 或阻碍到人行道。所以明显有我们必须做 的事以双重检查 他们完全合法。但是否则，我们做的是，我们从他们那里搜集数据。是的，他们非常乐意在我们这注册，你认为你何时会运行？[克里斯]，我预计在 六个月后运行 为什么这么长？为什么这么长？
-
- - [山姆] 六天如何？我想要这么做，我想要在六天后建立这个。但是当前我不是技术创始人 或技术人 -
-
- - [山姆] 是你的联合创始人吗？我的联合创始人是技术的。所以她有工具和资源 和能力基本上建立这个。但是她在度假，我希望她在这里 [观众笑]
-
- - [山姆] 她何时回来？她应当在这周内回来
-
- - [山姆] 她是那之后6整天吗？我知道，我知道，我想要推这个 非常难的事之一是 没有人想要 像当你运行新创公司时你 推出此你自己的产品 没有人想要这么做 直到他们 感觉它非常好了。但是六个月后 世界会看起来完全不同，你有的 其他人有的所有好想法 现在很多人会听到 这个。因为我们在谈论它 不要偷我的想法，你们所有人 不要偷它
-
- - [山姆] 偷想法 好吗？你们所有人的NDA 速度和执行确实有关系，你可以告诉一千万人想法。可能他们都在忙自己的事。但是至少他们中的一些会感兴趣 有这个速度的问题。以及你可以多快 建立和迭代 特别是在市场中 有大的先行者优势 即使它不是你想要的版本，我对你最重要的建议是 以丑陋的第一版本迅速运行它。然后你会了解如此多的关于如何建立 一个更好的版本，你和客户交谈很棒 那明确是要做的1号事 让人注册 这样你有详细目录。但是我会考虑你如何带入运行 即使它是让你尴尬的软运行 很多...。是的，特别如果问题足够急性 像如果是人们确实斗争的事 如找停车点 他们不会在意应用 有多漂亮 或应用有多丑 只要他们能够找到停车点。所以有在线的 即使它就像 小插件包装的网站 在一个社区，你知道... 那是实际上我们在做的 是我们在瞄准 某些社区。所以例如，我确定你们去过旧金山多次
-
- - [德里克]，我住在那 明显你住在那 海特区是它们之一 严重 挤满 十次有九次 甚至在这周期间
-
- - [德里克]你怎么知道的？我亲自去那了，有块检验板检查时间，一天站那8小时。有几次有点空。但是大多数...。所以我理解了你如何让停车场在案。我认为这是市场更难的一半。但是你仍然需要想要停车的人，你如何得到这些人？
-
- 我们要做的是在节日期间访问人，有很多节日 ，有户外音乐节 有一些在金银岛进行的 即使我知道在我们的范围之外 在金门公园周围有很多发生 有越湾长跑节... 有很多我们要宣传这个的节日 或者一些类型的主题 或者一些类型的节日 一些类型的球类比赛，我担心那些A不够频繁发生 B 那些是不在城市超级定期 寻找停车点的人，如果你可以发现找到对于其这是火烧眉毛的问题的人或者每天在城市开车并且必须停车的人 或者住在城市但是没有停车场的人的方式 会很有趣 这不作为最紧急的需要打动我 或者找到确实每天感到这个问题。的人的最好方式 有很多 这是要解决的很大的问题，我会考虑其他策略 找到很多人 节日，我担心没有足够的 节日 在那些节日没有足够的人 有此为定期现有的问题，你想要是这个的每天或者至少 每周用户的人，我打赌你会有更好的方式。我认为如果你脚踏实地，你实际 调查地方，我实际上会问 停车的人 为什么你在这里 看... [学生] 这就是我在做的 Ok。所以反馈是什么，他们在那工作吗？十次有九次 人们进入城市。所以不住在城市的人 明显因为很多住在城市的人 不必需拥有汽车
-
- - [德里克] 对的。但是他们为什么通勤？他们为工作通勤吗？他们为工作通勤。有时他们只是 通勤做一些合同 他们要 经常来城市 有人来进行会议 有很多他们来的原因，我指这些人今天开车。今天停车，如果更容易可能他们会做得更多。但是你能在停车场放标志 说：在这里停车 下载这个吗？所以当那个时间来到时，当我们有产品运行时，我会首先做小标志 便宜的 起步，你知道。可能分层的 或类似的 放到需要的地方去，你需要某些东西。
-
- 因为在很多情况下，它是冲动购买 他们寻找停车场 他们没有找到 街道停车场 现在他们准备好购买 不管你给他们的是什么。是的，我为你有个总的想法 关于这种市场 Airbnb是非常好的公司。因为，如果你拥有一个空间，你把它租出去，你只能把它放在。基本上一个平台上，如果你要使用立即预订特色，如果你是客人，你确实在意你是否得到这种房子 或这种房子，它们是不可交换的 车辆共乘，如果你是司机，你可以为任何服务开车，你可以打开或 关闭应用，如果你是乘客，你不太在意你进入的是什么车，如果你能有以前那种市场 不仅有完美的代替 所有人在每个服务 之间切换 依赖于价格 那很好。
-
- 所以如果你能做某些事...。我认为这是大多数人错过的 关于市场的非常大和重要的洞悉，如果你能做某些事 人们只能将其 空间挂在你的市场上。因为你将有 昼夜不停的即时预订 或者某些东西 非常重要 以确定 听起来不那么大的非常有价值的调整。但是对于业务的长期可行性 实际是很大的不同。我认为那是很好的着手点。
-
- 所以现在 就24小时预订 或者类似的，我想要给予地产业主 或房主 设置其自己的时间的能力。所以有时。可能一些业主 或地产业主 说，我们将只喜欢富国银行 他们可能设置他们自己的一点晚 当然营业时间之后 为什么你认为你将能得到业务 从他们的停车场？我也会喜欢出动到业务 放弃他们的停车场。有趣，我在想着更多是围绕房主的或者自己有额外空间的人的。但是业务会很有趣 现在它是非常不同的销售。
-
- 因为现在你必须去 使地产经理或必须做它的其他人信服。对不起，只是一个想法，开始我会选他们之一。因为你不能对两者都销售。所以我特别想要聚焦于可能像 首先住宅和私人地点。然后开始慢慢建起，你对定价有感觉吗？我想要在旧金山的表之后 塑造这个 现在表都是定时的 旧金山公园实际进行了调查 他们增长了表计价。
-
- 所以类似于基于变量的定价。所以那是我们将模仿的 特别是如果我们想要与表自己 竞争 为住宅的 为私人的地点 明显我们将与私人地点 价格竞争。所以我们的模型将基于旧金山已经做的 人们将能够停车，我假设只要他们想。并且地产业主... 只要地产业主设置了他们的时间 说：8点到5点 他们可以从8点到5点停车 按小时计价
-
- - [德里克] 这个的合法情况是什么？我假设如果是私人地产是ok的？它是完全合法的，我与一位旧金山法律律师交谈 特别是为 旧金山自己 问他们 是有趣的问题...故事是，我给他们打电话，我说：嗨，我爸爸卧床不起 他不能工作 他不能从社会保障得到足够的钱。基本上他需要挣一些被动收入，我们把这个空间租给我们的邻居可以吗？
-
- 他们说：只要是他的房子，我们看不到有什么问题。这是个很好的想法，如果你不动作快 不会有用。我认为作为一家新创公司知道你面前 1号最大问题是什么，总是很重要的 对于你不是快速发货。所以要让此在一个社区尽可能快 地起作用 即使它 被敲打 看起来不那么棒，你想要讨论其它问题吗？我觉得就这样了，我很好 很棒，我很兴奋试这个 谢谢
-
- [观众鼓掌]你好 德里克 很高兴见到你 德里克 很高兴见到你，你们好。所以，我叫菲利普，我叫艾玛，我们在月光工程。所以我们在为软件工程师和设计师 建立一个市场 匹配需要他们的公司 一次10小时
-
- - [德里克] 具体一次10小时？是的。我认为我们将以一次10小时开始。但是一些公司想要更多 一些 人想要更多工作。所以如果他们想要更多时间 他们可以有更多时间
-
- - [德里克] 这个运行了吗？我们有一个样品在运行，我们还没有其他人使用它。但是我们两人 都...
-
- - [德里克] 为其他人建立项目？那是开始很棒的方式 那很好，我们开始它因为我们自己有这个
-
- - [德里克] 公司如何找到你们？有各种各样的它们，它们的一些是 朋友的朋友 知道我们在做承包工作，我们来到与其交谈 另一件事是 当我们关闭我们最近的一家公司时，我们开源了所有代码。所以我们有人来付款给我们为其在他们自己的服务上 部署该代码。基本上他们通过得到希望找到我们 目前为止人们让你们建立什么种类的项目？目前为止很多人有非常具体的需要。所以他们会，我们需要这个语言的专家，或者知道如何很好地建立这个东西的专家。
-
- 所以他们在寻找没有那么多磨合期的人，他们能够跳进来做项目 为什么他们选择你们 而非 Upwork 或Cocktail 或其它的 外包机构。我认为最大的原因是我们在促进它作为专家在进行的东西。所以这些不只是世界上的任何人，想要1小时挣15美元 这是在谷歌或优步工作的人 他们想要附带挣额外的钱。但是他们很擅长他们所做的。所以你们将容纳这些人 那是你们已经在做的吗？是的，那是我们开始做的，那将是我们最大的障碍 是能够确定这些人确实是优质的工作者。一个10小时项目你们收费多少？所以 承包商设置他们自己的费率，我们处理发票 收费15% 在其之上
-
- - [德里克]但是真正的市场，正确。是的，除了质量 假设如此多的人... 这明确是很多人想要加入的业务 很多人已经在里面了，你们如何成为所有人来得到 承包工程帮助的市场？我认为我们能够从我们自己的经验说话，我们过去有时候，我们有 学生贷款，我们会超时 工作 每周 将其付清 确实没有这样的市场 想要一小时50或70多美元的人，可以找到 像短期项目 他们可以附带做的。所以在开发商侧那是真实的。但是你们如何让公司来找你们说，我们需要专家时，我们来找你们，我们在从事匹配的不同方式。
-
-我认为有一些公司有的非常专业的需要，它甚至不必须是产品的核心。有时就像，我需要设置开发 环境 或者我想要登陆页面，我们的设计团队 在专注于一个应用 或者这样的东西，我在想你们是否想要成为 为某技巧集去的地方 而非所有专业。但是在开始 就像具体的集 他们去找你们，你们打开额外的部门，我们在看开源项目。
-
-所以像一个开源项目需要很多知识很多经验以理解内外。所以我们用我们自己的开源项目测试得到项目进来，人们注册。我考虑那个和基于非常具体的开源项目 匹配人 不是说Ruby编程语言。但是可能像 MongoDB binding为非常具体的东西。我认为追逐高端工作的洞悉 以及为只是寻找小件的人 是非常好的，我想你们是否会挑选具体需要那个的项目。如更难建立和花更少时间 的项目。
-
- 但是需要专业技巧不是正常的如，我只是需要人磨穿这个，那会作为好的最初焦点打动我 现在公司面前 最大的问题是什么？我认为是确定匹配，我指明显每个市场有该问题。但是确定我们有的人值他们的收费。因为我们想要对人们每小时收费多少 设置限制 -
-
- - [德里克] 如，我们想要人们...。是的，最少。对不起。所以我们想要每小时挣更多钱的人。因为那会促进工作质量
-
- - [德里克] 对的，你们每小时收费多少？我们都试图每小时收费150美元，我们在发现...。所以目前为止我们有大约300人注册，我们问他们他们的每小时费率是多少。通常是每小时70到200美元，有趣的事是它不是那么多。人们收费的，更多是公司的感知价值 对的。所以如果公司说这些开发者值一小时150或200美元 他们实际上不如他们很高兴付。但是你需要使他们信服他们值那么多钱，无论开发者认为他们值多少钱，你们如何做那个的？你们如何使公司信服，你们的开发者值1小时200美元 当他们可以为1小时25美元到其它地方时。是的。我认为现在 对于MVP，我们试图说的是我们在这些领域是个人专家，我们在确定，我们有的人才质量达到标准。我认为我们需要确定如何将其规模化。我认为除了确定你们如何 将其规模化，你们需要确定你们如何 交流它 如网站确实必须以来自知名 客户 如这些是最好的人的 客户评价给出印象 在研究价格方面，我们不断看见的一件事是当你请求用户设置其在市场的 价格线时，如果你给他们指导，如果你说：基于你说的，这是我们推荐的，或者这是我们推荐的范围 85% 90%的用户会做那个。
-
-所以如果你们想要设置，如果你们想要移动人们到某一具体范围。因为你们想要在该质量水平的人，你们可能可以做那个。所以我们做那个了，我们的注册表说那个了 平均每小时费率是每小时70美元，它也说如果你有，对不起，如果你有年资 那是大约，你的每小时费率 如每小时100美元是大约50 对不起 每年10万美元是大约 每小时50美元，你认为何时你们会有第一个外部 开发者在线？所以那不是你们两个人。所以我们基本上现在在从事建立 开发票。所以那将是下 一周或两周。可能，你们需要开发票吗？如你们开始可以更手动做它吗？这样你们可以看到不是你们的人...。因为明显你们没有开发票，对吗？我们自己做这个 有很多移动的部分 有像来回发送合同 有像设置银行账户 有让公司付款，我们与想要在平台上的 潜在承包商谈话了 他们一些最大的 担心是，如果我每周只工作10小， 花多长时间提升产能，我需要与客户谈话吗 要多长时间我才能得到付款。
-
-是的，我会试图梳理 现在在幕后手动做 只是让开发者开发 移走他们所有的压力。所以他们可以开始与客户互动，如果你需要手动处理它 做它。但是不是你的人开始在你的平台上 做这个是如此重要 当他们做时 特别是第一个，我会超级涉及 以了解问题是什么，它可能是人们不确定他们是否被允许做这个 他们需要帮助看他们当前的 用工合同，它可能是人们需要培训以知道如何 参与客户 他们应当交流 多少 有所有这些东西 很多会使你惊奇，你对很多的猜想将是错的，你找出这个的方式是... 对于首先如20个用户 去与他们坐在一起 或者至少一直与他们谈话，我几乎会这么考虑它成为其代理，如果他们是人才，你是他们的代理，你为他们打理一切，回答他们所有的问题...
-
-然后你可以开始将建入产品 就我们的经验 几乎每次 当人们认为他们知道突破点将在 哪里时 或者他们需要教其用户什么时 他们几乎总是错的。但是你很快就发现 就像你不需要巨大的样品集以开始听到人们有的普遍关注。过程中的每个阶段。然后你一次 击倒一个。我认为那是可以将你们与不做这个的其它编码人才市场 区分开来的方式，如果你们可以确定，如果你们可以成为 促成想要额外收入但是不知道 如何成为自由职业者的人的人，如果那成为你们的名声 那将是得到领域里的顶尖人才的 很棒的方式 一个想法，你们可能 或者可能不想要追求。但是如果你们想要 成为领域里的专家，看你们是否能得到任何专家使用你们的平台 通过你们的网络或其它地方 或者得到某职业领域的知名人士 让他们在你们的平台上注册并在你们的平台上做项目，如果他们愿意。所以你们现在最大的问题是什么？我们个人？
-
-- [德里克] 伴侣在此阶段经常是一个。我认为是建起机器，如果我们手动收款，我最大的担心是10个月在线下，我将必须手动计算1099的 哦。但是不在考虑10个月在线，你需要到下两个月。我要说要处理好那个，我们感到我们必须有付款的东西 设置好的原因是围绕你可以 如何向人付款和类似的有如此多的法律，所有这些的后勤 还有需要进行的文书工作。所以我认为你是对的，我们需要先做 这些以知道它们是什么。但是我认为我们都...有不像其它新创公司，你们可以使用 很好地处理开发票的吗？
-
-- [德里克] 很复杂。但是像一个会计可以帮助你们？所以我们在使用Stripe Connect，它处理一切 包括 如1099的。但是没有总包开发票系统 现在在其之上建立。是的，我明白，我确实明白。但是我仍然觉得是这样的，作为开发者我有这样的感觉 只有我建立起这个 才能准备好进行，即使你有平台建立好。有人们不开始使用它的机会 只在您进行非可扩展工作时你才知道 这是我们开车回家的事之一，几乎每个办公时间课，它是只做非可扩展的事手动做。不要担心10个月在路下 10个月在路下，它是家新公司 与今天相比它会看起来非常不同。但是你今天做非可扩展的事如此重要，我们只是在谈论少量用户，你不必须带...
-
-每个人都，我的问题是，如果我做这个非可扩展的事，明天2000用户会 注册，我将必须处理他们 那不是会发生的 是轻微的沃伦本能 说，我最大的问题是我还没有建立软件的 这一件 不是我最大的问题是，我将如何得到那2000个用户。所以我们现在专注的是开发票 不是登录或这样的东西是能现在得到信用卡 或银行账户细节 Ok 再次，如果那是你想要做的事，我会...，我对该问题的回答，关于你最大的问题...，我不担心你将能达到需要开发者以建立东西的人。有很多人对于应用有想法，我担心的是 所有人如此经常看，我将得到这些很棒的开发者为其他人 建立东西的想法，做那个，实际上如此难。因为人们认为他们会得到开发者的原因 以及假设开发者知道如何 很好地做这个是如此得错误。
-
-所以你们仍然没有像们不会注意到你自己的问题。因为你们 经常考虑这个，你们认为 即使我得到发票，它不需要以你们认为，它需要被建立的方式被建立。因为关于将要改变的模型有基本的东西。但是得到你们不知道或，你们不了解的人 以在平台上 建立项目 那是确实重要的步骤，我同意。我要加上这个想法来自之前的公司，我们没有 时间雇人，我们开始雇用兼职 人员 朋友的朋友 这样的东西。所以我们开始做很多那样的一手研究。我认为那很棒，那实际上超级重要。因为它意味着你有痛苦并且理解痛苦。但是它仍然像 山姆和我经过了 相同的事，它是 得到与你之前的业务或者你的核心业务毫无关系想要开始使用它的人是如此关键，你们想谈论其它问题吗？有其它问题吗？没有。我认为那是我知道我们现在需要做的主要的事，你们如何决定大约15% 作为收费金额？我认为那是我们需要测试的另一件事。但是我们觉得那是对于付款的公司不那么疯狂的数字，如我的室友，一个招聘者。她说：她得到所有他们工资的 30%。但是对我们来说也足够 没有太多人开始能够开始测试东西。
-
-那是你们将要对每小时费率收费的价格吗？或者它将混入每小时费率？是的，如果某人是每小时100美元，我们会加上15美元 这是未来有的很好的问题。什么会避免一旦有人与他们喜欢的人工作，避开平台雇用他们不付款给你们？我认为那是很多开发者和设计师向我们指出的另一件事。我认为我们想要确定平台里的工具把人留在那里，这样他们得到工作和保持工作很容易，他们可以附带做。所以建立内部工具，很多人远程工作，作为合同工作者将是另一件事...那是关于短期项目工作良好的另一件事。
-好的，很棒，非常感谢。很棒，谢谢，见到你们很高兴。所以格式上那是个实验，那是你们想要我们在课堂上做得更多的事吗？有用吗？更定期的讲座？是的。是的，有点。Ok，我们会做更多的，好的，很棒，非常感谢。
+# Live Office Hours with Yuri Sagalov and Sam Altman
+
+
+Sam: Good afternoon. Today we're going to do something different. One of the things that we've  learned at Y Combinator is that one of the best ways to learn about startups  is to watch other startups get advice, and so we're going to do live office  hours, which we've done a few times before in this class, three or four times.  We'll try to do three companies each time. This is Yuri, also works at Y  Combinator, and going to do this with me, and we're going to just give advice  to three startups. You have to be very brave to do this, so I'm very  thankful for the startups that have agreed to do this. These are some of the  people that are taking the course online. We'll just get going. Do you want to  tell us ... First, do you want to introduce yourselves?
+Sarah: Yes. Does this work? I'm Sarah, and this is my co-founder Andrew. We're building Canny.  Canny helps teams collect and manage feedback from their users. Essentially what it is, is  teams can integrate our product into their website or mobile app, and that lows their  users to post and vote on feedback.
+Sam: Is it live?
+Sarah: Yes.
+Andrew: It is live.
+Sam: How many websites have integrated?
+Sarah: We launched our NVP about a month ago on Product Hunt. That was pretty good  traffic. We have 25 paying customers, so those are people who have either integrated or  are using us in a certain way. We've got maybe around 500 companies from the  Product Hunt launch.
+Sam: That's great.
+Sarah: Yeah.
+Sam: How much are you charging?
+Sarah: It's a range. On the low end we have a $2 plan, which was our  alternative to freemium.
+Andrew: Cheapium.
+Sarah: Cheapium. It goes from 19.49, 1.29, from there. It's really early, and we're trying to  integrate on this and figure out what our best price point is, which is probably  one of our main challenges right now, I think.
+Yuri: Go ahead.
+Sam: How'd you even arrive at the first set of numbers to test?
+Sarah: The $2 one was kind of special. We were flip-flopping between freemium and cheapium, and  I think that was a good decision because it narrowed down our potential customers by  a lot, and we figured that people who are not going to pay us anything  were never going to pay us anything.
+Sam: How many of the 25 customers are on the $2 plan?
+Sarah: Maybe ...
+Andrew: Seven.
+Sarah: Yeah.
+Sam: That's a good .
+Yuri: Really.
+Sam: That's great.
+Sarah: Yeah.
+Sam: What's the other most popular plan? That's the 19?
+Andrew: 19.
+Sarah: 19. We limited our $2 plan very heavily, so it's really people who are a  solo founder, probably no revenue ...
+Andrew: Who have less than 100 users.
+Sarah: Yeah.
+Yuri: What do you get with the pricing? I think I looked at your website, it's  how many users you have?
+Sarah: Right. Right now we're charging by how many end users you have. That was kind  of our proxy to how much value the company was going to get from our  product. This is kind of a challenge, especially because we can't particularly tell how many  users they have. We're iterating on this as well.
+Sam: What do people really love about this? Why do they use your product and not  one of the many other services to accomplish the same goal?
+Andrew: Yeah. There's a lot of different values that you get out of posting and voting  on features. One of them is, there's a lot of transparency, so you keep your  users in the loop. A lot of current feedback solutions is email or live chat,  where the user sends an email and then the company says, "We'll pass it on  to the team," is what inevitably happens. Then the user doesn't really know, "Did my  voice get heard?" We've heard both from teams and from users that this is a  great experience, their users are happy, they know what feedback their users are giving, versus  email and live chat, which takes just a ton of time to process all these  conversations.
+Yuri: Of the people that are using it, what's the average number of questions that have  been posted on it so far?
+Andrew: Average number of questions? What do you mean by that?
+Yuri: People request, or something else that they're voting on, do you know, of the 25  paying customers, how many on average have had questions posted?
+Sarah: It really depends on how many end users they have, and also how well they've  implemented our tools. If it's less discoverable they're going to less feedback, and so we've  been trying to help that by giving them design advice. Our top team probably has  300 posts. The thing about this versus email is that you might get ... If  a post has 100 votes, you might get 100 different emails, and so we help  you save time by responding to all those 100 people at once, instead of send  individual emails back and forth.
+Sam: Do you feel like you've gotten to the point where you have a product that  some people really love? At this point, if so, do you think you're at that  point first?
+Andrew: Yeah. I think we have a sliver of product market fit, where some people are  extremely happy with our product and we kind of know the next steps we need  to do to expand that by 10x, to address a larger portion of the market.
+Yuri: What are the steps?
+Andrew: Integrations with other SAS services, like Intercom, Slack, Zapier, and then a better answer on  mobile.
+Sam: Is the biggest challenge you face now just figuring out how to grow and scale  this, do you think, or is there still a lot of product work? Other than  integrations that are meant to drive growth, is there still a lot of product work  before you really want to scale?
+Andrew: There's some product work for sure. I think the core product is pretty good, but  it takes a while for our leads to get stuck on our product, because they  have to integrate into their product, so it's a pretty big investment.
+Sam: How easy is to integrate?
+Andrew: It's pretty easy. It's really easy. It takes half an hour to an hour, is  what we see developers spending time on. It's just, I think we need better onboarding  to convince them that this is worth doing, and so I think right now our  funnel's pretty leaky. That's what we're working on, is onboarding.
+Yuri: What's the biggest value? Your biggest user has 300 questions, or a couple hundred questions?
+Andrew: Several hundred.
+Sarah: that there's votes.
+Yuri: What's the biggest value that they see out of it? What do they tell you?
+Andrew: it's hard because a lot of our value add is very diverse. One thing is  customer satisfaction, another thing is product management, what you want to work on. Another thing  is having a transparent road map, so keeping your users in the loop. There's just  all these different values, there isn't one core value, which is why it's kind of  hard to ...
+Sam: That sounds like a mistake.
+Andrew: A mistake.
+Sam: Almost everyone who says, "We have all these different values," and, "There's all these different  reasons people like it," it's really nice if you can figure out how that all  abstracts into one message, and then build all of the company's sales and marketing and  PR around ...
+Yuri: One message.
+Andrew: One core value product?
+Sam: This is what it's about, rather than saying, "There's six different reasons to use the  product!" I think one of the things ... When you say you have a problem  with people integrating you, it's not that hard, it's just not high enough on their  priority list, and there's a few ways to solve this. One thing that works is  to send people around and say, "We're going to send an engineer to come help  integrate with you." It's not that the company can't help do it, it's just that  otherwise you'll always be at the bottom of their back log. That's one way. The  other is if it's like, their CEO tells them to go do it, or they  themselves decide, "I've got to go do this, it's really important." That almost never comes  from a bunch of disparate messages that are a bunch of nice-to-haves. It's like one  thing, which is maybe in this case ... It's some version of user feedback, and  how if you don't have this you will be iterating more slowly than your competitors.
+Andrew: Or that your users will feel like you're more engaged with them, if listening to  the features they want they'll ...
+Sam: I have two big questions. One, I think back-of-the-envelope math is really important, and I  worry that this is the kind of business where, if you're mostly selling to startups,  and you're selling at, let's say on average, 100 bucks ... Is it a month  or a year?
+Andrew: A month.
+Sam: A month. How big can this business actually get off of this model? Have you  thought about that?
+Andrew: We have thought about it. I think just doing napkin math, I think with a  startup you usually want to arrive somewhere around 100 million annual revenue. For us, right  now it's looking like we'd be going for 10,000 people paying us $100 a month.
+Sam: Does that feel doable?
+Andrew: Maybe it's 100,000. Yeah.
+Yuri: There's the difference there.
+Andrew: I think the number ...
+Sam: I think it is 100,000 for 100 million.
+Andrew: Yeah, 100,000, sorry. I think the number of companies that need feedback, and the number  of websites and mobile aps, is increasing, and ...
+Yuri: Do you feel there's 100,000 ... Part of it is, do you feel you're going  to have to own like 50 percent of the startup market to get there, or  do you feel there's enough demand out there that you can actually get to the  market without dominating the entire thing?
+Andrew: Right.
+Sarah: Right. As an aside to this, I think we've been getting a lot of feedback  that we can actually charge a lot more, and so I think there's a few  features that we can build out that will help a lot, including analytics.
+Yuri: Do you use your own product?
+Sarah: Yeah, definitely. That's a good way to figure out if it's providing value.
+Sam: Again, maybe the answer is to charge a lot more, maybe the answer is that  there are 100,000 startups, maybe the answer is you need to tweak the product in  a way that, you can appeal to a lot of people outside of startups, but  I think startups almost never just do the swag on this early enough, and it  really informs product strategy.
+Sarah: Right.
+Sam: Which also informs my next big question. This feels like the kind of service that  is interchangeable, and that a lot of people can build a similar service, and if  one company uses product A and another company uses product B, there's no reason for  a third company to prefer A or B. There's no network effect, there's no monopoly.  I can imagine ways that you could build one of those into the product, where  there are sort of cross-company incentives to use yours, but what is your plan to  be a monopoly and not another SAS business that just gets competed down to zero  margins?
+Sarah: That's a good question.
+Sam: If you don't have an answer yet, it's also fine to just say, "We don't  know yet."
+Sarah: Yeah. Our strategy so far is to go after influencers. These are including people who  have users that would also use our product. For example we go after open-source projects  and tools like Optimizely for example.
+Yuri: You give it free to open-source projects?
+Sarah: Open-source projects are free, yeah. As an alternative to GitHub and GitHub issues, and they're  bringing in a lot of people, I think that's a good move for us. So  far I think our strategy is really to put our product in front of the  public, it's powered by Canny, and that's kind of where we're at with it.
+Sam: do you have any thoughts about this?
+Andrew: One little thought. I think one thing that we've found so far is that there  are other products on the market that do this, and during our Product Hunt launch  we got people coming from those products wanting to use us, and the thing that  they mentioned liking about us more is design and simplicity. I honestly feel like our  product, out of all the products in the market right now, is the best designed  and the simplicity for exactly what we do.
+Sam: I believe you that that's true, but here's the problem. Every startup, I'd say one  out of three startups I meet with says, "We're like this other thing, except we're  better designed, we're more beautiful, and we're simpler to use." It may be true that  you are, I believe that it is, but someone else can come do that some  thing to you.
+Yuri: More importantly, or not necessarily more importantly, but often times you start off very simple,  and then you start having to build features because you see that they're missing, and  then somebody else comes in and says, "We're now the simplest."
+Sam: In any case, it's really good. You've built a product that people love, you've got  them to pay for it, and you have a growth channel you believe will work.  That puts you in the top few percent of all startups, so that's great. But  this is the time where your biggest problem now, part of that, the one thing  you should be thinking about, is what can I do early to build a product  that, A, can eventually address a very large market, and B, how can I build  some sort of monopoly? How can I build something where, because this company uses my  product, this other company is going to be more likely to use it as well?  Design and simplicity, though everyone says it, and it's kind of true, is usually not  a long-term win. At some point, and it may just be that once your integrated  into a company you're impossible to rip out, and then you're going to win the  mine share war. That could be it.
+Sarah: I think that's what we're seeing actually.
+Sam: A better answer, though, would be if there's some way that you can use aggregated  data or learnings across all companies, or aggregate users ... The kind of users that  leave feedback on products tend to do it across all the products they use, so  there's probably a very small percentage of users that give feedback, and they do it  across all the products. My sense is that somewhere in there, there is a strategy  to build a monopoly, but you want to figure out what that core is and  build that into the core of the product, so that you have a long-term defensible  strategy.
+Sarah: Yeah. This is actually very interesting, because we probably started at more of an aggregate  level where everyone could feedback about anything. That was hard because companies weren't onboard first
+Sam: Yeah, that doesn't feel right either.
+Sarah: Yeah. Right now we've decided to go this other way for now, but there is  a possibility that one day, we're connecting all the users, if they post on multiple  products that use Canny we can connect all those people, so maybe there's some potential  there eventually, yeah.
+Sam: Why is it named Canny?
+Sarah: Canny was really hard to find. We went through many different names, but a core  part of our product is the subdomain, and we didn't want to use something that  was "Get This," or "Try This," "Use this".
+Andrew: Short and sweet.
+Sarah: Yeah, so something short and sweet. We got Canny.io, so it's not the worst, but  it's not the best.
+Sam: You can still change it's not too late.
+Sarah: Yes. We can still change.
+Yuri: It thought it was a play on uncanny.
+Sarah: Yeah. Actually they're kind of different. It means to make good judgment, so I think  that kind of plays in at well.
+Yuri: If it's working, if people remember it, if they spell it right, that's all good.
+Sarah: Yeah.
+Yuri: Anything else you'd like to talk about?
+Sarah: Yeah. In general I think, to your point about broad use cases, after our Product  Hunt launch, it came out with a lot of people using Canny for different reasons,  and so I think focusing on-
+Sam: Is there one reason that's surfacing?
+Sarah: Yeah. The top one is feature requests, which is what we requested. Also I think  pricing is one of the big ones, figuring out what our main value is, and  that's what we're trying to do. We're trying to isolate that one thing, to especially  market it on our home page. How do we pull people with that one value.
+Sam: Feature requests don't sound quite as good as user ... I don't know. I would  be willing to ... This is the place where I believe in AB testing. I  don't believe in it for everything, but in terms of messaging and communication, and what  are those four words you put big on your website when people come there for  the first time, this is the place I believe in, AB testing. If feature requests  are really what people want, then great.
+Sarah: Yeah, just put it right up front.
+Sam: If that's the thing that's working, that's at least a candidate for the right answer.
+Sarah: Right.
+Sam: All right, we should move on to the next group. Thank you so much.
+Sarah: Okay. Thank you.
+Andrew: Thanks.
+Sam: Thank you. Thank you.
+Sarah: Thank you.
+Sam: Thank you. Hey, I'm Sam.
+Chris: Chris.
+Yuri: Hey, Yuri.
+Chris: Hey. Chris.
+Yuri: How's it going.
+Sam: By the way, I don't know what any of these companies do ahead of time.  Live reaction from me. You want to introduce yourself?
+Chris: Hi everybody, my name is Chris Beltran, I'm the CEO and founder of Tuml. What  we do is, we connect home owners, private property owners, and all sorts of parking  lot owners, to our app. Which our app does is, it aggregates, essentially, their parking  spaces, lets them lease it out. The owners are able to make some passive income,  and the parkers are able to just go to their parking spot whenever they want  to easily and quickly. This tool was meant for specifically San Francisco, highly industrialized cities,  in which people need to park easier and faster rather than circling the block.
+Yuri: It's like Airbnb parking.
+Chris: Essentially yes, it is.
+Yuri: Yeah, I've wanted to see something like this happen for a long time, because it  feels like, in urban cities like San Francisco, there's just not enough street parking.
+Chris: That is, but right now more of the issue is, is this a perceptive problem,  or is this an actual problem?
+Yuri: Are you live in the city right now?
+Chris: We are not live in the city. We are currently building out the NVP right  now.
+Yuri: Got it.
+Chris: Unfortunately my cofounder's not here, she's actually taking a vacation through Mexico. I think she's  doing some traveling. Mind you guys, I'm not a solo founder, I do have a  cofounder.
+Yuri: That's all right. Have you been talking to home owners in the meantime? Are they  willing to rent out their parking spots?
+Chris: You know what, the funny thing is, I am actually hitting the ground running, and  I'm physically going out to these homes and/or private parking lots, and pitching to them  my idea and saying, "Hey, why don't you use our platform, this is what it's  going to look like, and I'm representing our mockups to essentially say, "This is the  platform that you would essentially be using."
+Yuri: What do they tell you?
+Chris: More often than not they say, "This is awesome. Why haven't anybody else created this?"
+Yuri: Are they willing to say, "I'm ready to pay ..." Or, would they pay you?  No, you would pay them to ... You would to a rough share with them,  right?
+Chris: Correct. Essentially, the percentage of sales that occur when the commuter parks in their parking  space will collect 15 percent, they collect 85 percent.
+Yuri: Can you sign them up ... Part of the thing for you is that when  you launch in a city you're going to want as much critical match as for  a parking spot.
+Chris: Correct, yeah.
+Yuri: Are they willing to sign up and say, "My parking spot is yours the moment  you're ready"?
+Chris: Currently what we're doing is, we're creating lists and we're pitching the idea to them,  so essentially what we're trying to do is, we're trying to curate all these home  owners and private property owners throughout San Francisco that apply to, pretty much that play  with San Francisco standards, because you cannot park or moped over onto the sidewalk. Obviously  there's some things that we have to double check to make sure that they're completely  legal.
+Yuri: Sure.
+Chris: Otherwise what we're doing is, we're collecting data from them. Yes, they are more than  willing to sign up with us.
+Yuri: When do you think you'll launch?
+Chris: I pretty much projected to launch within six months, and-
+Yuri: Why so long?
+Sam: Yeah.
+Chris: Why so long.
+Yuri: What about six days?
+Chris: I would love to build this out in six days, but currently I'm not a  technical founder, or a technical person.
+Yuri: Is your cofounder?
+Chris: My cofounder is technical. She has the tools and resources and clout to build this,  essentially, but she's on vacation. Wish she was here.
+Yuri: When is she back?
+Chris: She should be back within the week.
+Yuri: Six days after that.
+Chris: I know. I would love to push this.
+Sam: One of the things that's really hard is, you're putting this product of yourself out  there when you launch a startup, and no one wants to do it until they  feel like it's really good. In six months the world will look entirely different, and  every good idea you have, someone else has. Now a lot of people are going  to hear about this, because we're talking about this.
+Chris: Don't steal my idea.
+Sam: Hundreds of thousands of people.
+Chris: All of you don't steal it. NDAs for all of you.
+Sam: Speed and execution really matter. You could tell 10 million people the idea, and probably  all of them would be busy with their own things, but a few of them  will be interested at least, and there's this issue of speed, and how quickly you  can build and iterate. Especially in a marketplace, there is a big first mover advantage.  Even if it's not the version you want, my most important piece of advice to  you would be to get this launched really quickly in an ugly first version, and  then you'll learn so much about how to build a better version that you can  go from there. It's great that you're talking to customers, that is clearly the number  one thing to go do, and getting people signed up so that you have inventory,  but I would think about how you bring the launch in, even if it's a  soft launch that you're embarassed about, by a lot.
+Yuri: Yeah, especially if the problem is acute enough. If it's something that people really struggle  with, finding parking spots, they won't care how pretty the app is, or how ugly  the app is, as long as they can find a parking spot. Having something live,  even if it's just a website wrapped in a little icon ...
+Sam: In one neighborhood.
+Yuri: Yeah.
+Chris: That's literally what we're doing, is we're targeting certain neighborhoods. There's neighborhoods, I'm sure you've  been to San Francisco multiple times.
+Yuri: I live there.
+Chris: You live there, obviously. Haight district is one of them, which is severely impacted, nine  times out of 10, even during the week ...
+Sam: How do you know?
+Chris: I've been there physically and had a checkboard out, and checking the times, and stand  there for eight hours a day. But there are times when it does free up  a little bit, but for the most par it's-
+Sam: I understand how you're going to get the parking places onboard, which is I think  the harder half of the marketplace, but you still need people to want to park.
+Chris: Correct.
+Sam: How are you going to get those people?
+Chris: What we're going to do is, we're going to reach out to people during festivals.  There's tons of festivals, there's Outside Lands, there's some that go on in Island, even  though that's out of our reach, but there's many that happen around Golden Gate Park,  there's Beta Breakers, there's tons of festivals that we're going to be pitching this around,  or some type of theme, or some type of festival, some type of ball game.
+Sam: I worry that those, A, don't happen frequently enough, and B, those are people who  are not looking for parking super regularly in the city. It would be interesting if  you could figure out a way to find people for whom this is truly a  hair-on-fire problem that drive to the city every day and have to park, or live  in the city and don't have a parking place. That does not strike me as  the most urgent need, or the best way to find people who are really feeling  this problem every day, which there are a lot. This is a great problem to  be solving. I would think about other strategies to find a lot of people. The  festival thing, I worry there aren't enough festivals and there aren't enough people at those  to have this as a regular ongoing problem. You want the people who are going  to be daily or at least weekly users of this, and I bet you can  come up with better ways.
+Yuri: I think if you're feet on the ground and actually surveying the place, I would  actually ask the people who are parking, "Why are you here?"
+Chris: That's exactly what I'm doing.
+Yuri: So what's the feedback? Are they working there?
+Andrew: Nine times out of 10, people are either commuting into the city, so they're people  people that are not living in the city, obviously, because a lot of people who  live in the city don't necessarily own a car, so there's-
+Yuri: Right, but they're commuting for what? Are they commuting for work?
+Chris: They're commuting for work, and sometimes they're just commuting to do some contract work. They've  got a come to the city every so often, there's people that come in for  meetings, a whole host of reasons that they come in.
+Sam: These people are driving today and parking today, maybe they'll do it more if it's  easier, but can you put signs in the parking lot, in the parking spaces, that  say, "To park here, download this"?
+Chris: Yeah. Essentially just ...
+Sam: That would work.
+Chris: When that time comes in which we do have a product launch, I'm going to  create maybe little signs at first. Something cheap just to get started, maybe laminated or  whatnot, to put it on those places where it needs to be. It's designated .
+Sam: Right. You need something, because in a lot of cases it is an impulse buy.  They're going to be looking for parking, they didn't find the street parking, and now  they're ready to buy whatever it is that you're giving them.
+Chris: Yeah.
+Sam: I have a general thought for you about this kind of marketplace. Airbnb is a  really good business, because if you own a space and you're renting it out, you  can only put it on basically one platform, if you're going to use the instant  book feature, and if you're a guest, you really care if you get these particular  house or this particular house. They're not interchangeable. Ride sharing, if you're a driver you  can drive for any service, you can turn the apps on and off, and if  you're a passenger you don't really care which car you get in. It's really nice  if you can somehow have the former kind of marketplace, where there's not just perfect  substitution and everyone is switching between each service depending on price. If you can do  something with ... I think this is actually a very big and important insight about  parketplaces that most people miss. If you can do something where people can only list  their space on your marketplace because you're going to have around-the-clock instant booking or something,  that would be really important to figure out early, and a very valuable tweak that  doesn't sound that big, but is actually a huge difference to the long-term viability of  the business.
+Chris: I think that's a good take on it. Right now, as far as the 24-hour  booking and whatnot, I want to give the property owners or home owners the ability  to set their own times.
+Sam: Sure.
+Chris: Sometimes maybe some owners or property owners, we'll just say like Wells Fargo, they set  theirs a little bit later after business hours is closed.
+Yuri: Do you think that you'll be able to get businesses to give up their parking  spaces though?
+Chris: I would love to reach out to businesses to give up their parking spaces as  well.
+Yuri: Interesting. I was thinking that this is more around home owners or people who have  extra spaces on their own, but businesses could be really interesting. It's a very different  sale now, because now you really have to go and convince whoever the property manager  is, or somebody else, to actually do it.
+Chris: Correct.
+Yuri: Go ahead.
+Sam: Sorry, just one thought here, which is I would pick one of them in the  beginning, because you won't be able to sell to both.
+Chris: Yeah. I especially wanted to be able to focus on residential and private lots first,  and then start slowly building out.
+Sam: Do you have any sense yet for pricing?
+Chris: Yes. I pretty much wanted to model this after the meters in San Francisco, and  right now the meters are all timed. Sf Park actually did a survey in which  they increased metr pricing similar to variable based pricing. That's what we're going to pretty  much mimic. Essentially we want to be competing with the meters themselves for residential. For  private lots obviously we're going to be competing with private lot prices, so we're just  going to base our model off of the model that San Francisco has already done.
+Sam: People will be able to park, I assume, as long as they want and the  property owner is .
+Chris: As long as the property owners set their times to say eight to five, they  can park eight to five and it'll be on a hourly rate.
+Sam: What's the legal situation of this? I assume it's okay if it's private property.
+Chris: It is legal. It is completely legal. I've looked into it, I've talked to an  SF law attorney specifically for San Francisco themselves, and I've asked them ... It's kind  of a funny question. The story goes, I called them up, I said, "My dad  is bed-ridden, he's not able to work, he doesn't get enough from social security, and  essentially he needs to make some passive income. Is it okay if we could rent  this space out to our neighbor?" They said, "As long as its his house, we  don't see any issue with it."
+Yuri: Great. That's great.
+Sam: Again, this is a really good idea. If you don't move fast it won't work.  I think it's always important as a startup to know what the number one biggest  problem in front of you is. For you, it's not shipping quickly. Just get this  working in one neighborhood as quickly as you possibly can, even if it's hacked up  and doesn't look that great.
+Chris: Okay.
+Sam: Any other questions you want to discuss?
+Chris: I think that's it.
+Sam: Great. I'm excited to try it out.
+Chris: Awesome, thank you.
+Sam: Thank you.
+Yuri: Thank you.
+Sam: Email us when you launch.
+Chris: Awesome, thank you.
+Yuri: How's it going. Yuri.
+Emma: Philip.
+Yuri: Nice to meet you.
+Philip: I'm Emma.
+Yuri: Yuri. Nice to meet you.
+Philip: Nice to meet you.
+Yuri: What do you guys do?
+Emma: I'm Philip.
+Philip: I'm Emma, and we're Moonlight Work. We're building a marketplace for software engineers and designers  to match up with companies who need them, 10 hours at a time.
+Yuri: Specifically 10 hours at a time?
+Philip: Yeah. I think we'll start with 10 hours at a time, but some companies want  more than that, and some people want more work, so if they want more time  they can have more time.
+Sam: Is this launched, up and running?
+Philip: We have a prototype up and running. We haven't had anybody else use it, but  both of us have both ...
+Sam: Built projects for other people? That's a great way to start.
+Philip: Yes. We started because we have this need ourselves.
+Sam: Where do companies find you?
+Emma: There's been a variety of them. Some of them have been friends of friends that  heard that we were doing contract work, and would come ein and assign jobs through  there. Another thing is, when we shut down our last company we open-sourced all of  the code, and so we had people coming in and paying us to deploy that  code for them on their own servers. They found us through Git Hub basically.
+Sam: What kind of projects are people having you build so far?
+Philip: So far it's a lot of people who have a very specific need, so they're  like, "I need an expert in this language," or an expert that knows how to  build this thing really well, and so they're looking for someone who, there's not going  to be much onboarding, they're just going to be able to jump in and do  a project.
+Yuri: Why do they choose you instead of something like paperwork or TopTel or one of  the other outsourcing houses?
+Philip: I think the biggest reason is because we're promoting it as something that experts are  working on, so these aren't just anyone in the world who wants to make $15  dollars an hour. This is someone who maybe works at a Google, or an Uber,  and they want to make a bunch of extra money on the side, but they're  really good at what they do.
+Yuri: So you're gone have to actually curate these people.
+Philip: Mm-hmm (affirmative), yeah.
+Yuri: Is that something you're already doing?
+Philip: Yeah. That's what we're starting to do, and I think that's going to be the  biggest barrier for us, is being able to make sure that these people are really  quality workers.
+Sam: How much are you charging for a 10-hour project?
+Emma: The contractors set their own rates, and then we're handling the invoicing and charging 15  percent on top of that.
+Sam: But true marketplace.
+Emma: Correct, yeah.
+Sam: Other than quality, given that so many people ... This is clearly a good business,  so a lot of people want in, a lot of people are already in it.  How will you become the marketplace where everyone goes for contracted engineering help?
+Emma: I think we can speak from our own experience and say there have been times  in the past where we had student loans, and would've worked extra time every week  to pay them off, and there's not really parketplaces out there where people who want  over 50 or $70 per hour can find short term projects that they can do  on the side.
+Yuri: That's true on the developer side, but how do you get the companies to come  to you and say, "When we need an expert we go to you guys"?
+Emma: We're working on a couple different ways of matching, but I think the short of  it is that there are very specialized needs that some companies have, and it doesn't  even have to be core to the product. Sometimes it's like, "I need to set  up a development environment," or, "I want a landing page and our design team is  focused on an app," or something like that.
+Yuri: I wonder if you want to become known as the place to go to for  a particular set of skills. Not for every expertise, but in the beginning it's just  like a particular set, where they just go to you and then you open up  additional verticals as you go.
+Emma: For that we're looking at open-source projects. An open-source project is something where it takes  a lot of knowledge, a lot of experience, to understand the ins and the outs.  We tested that with our own open source projects, and got projects coming through there  and people signing up, and I think that matching people based on very specific open  source projects. Not saying Ruby programming language, but something like, the Mongo DB bindings for  Chef, or something very specific for that.
+Sam: I think the insight of going after high-end work, and also for people who are  just looking for smaller pieces, is really good. I wonder if you could pick projects  that particularly need that, like projects that are harder to build and take less time,  sort of need specialized skills and are not the normal, "I just need people to  grind through this". That would strike me as a good initial focus.
+Philip: Mm-hmm (affirmative).
+Sam: What's the biggest problem in front of the company right now?
+Philip: I think it's making sure that matching ... Obviously every marketplace has that issue, but  making sure that the people we have are worth what they're trying to get charged  for. Because we want to set a limit on how much people can charge for  hour so we will have higher-
+Sam: Why?
+Philip: We want people that are ... Minimum, sorry.
+Sam: Oh.
+Philip: We want people who are making more money per hour, because that's going to bump  up the quality of the work .
+Sam: How much do you charge for hour?
+Philip: We're both trying to charge about 150 an hour. We've had about 300 people sign  up so far, and we asked them what their hourly rate is, and it's usually  from about 70 to 200 per hour.
+Yuri: The interesting thing is that it's not so much how much the people are charging,  it's more the perceived value on the other companies. If the company is saying that  these developers are worth the 150 or $200 an hour, they don't actually ... They're  happy to pay that, but you need to convince them that they're worth that money,  regardless of what the developers think they're worth.
+Philip: Mm-hmm (affirmative).
+Yuri: How do you do that? How do you convince a company that your developers are  worth $200 an hour if they can go somewhere for $25 an hour?
+Philip: Yeah, and I think right now for the NVP, what we're trying to say is,  we are personally experts in these field, and we're making sure that the quality of  talent we have is up to that par. I think that we need to figure  out how we're going to scale that.
+Sam: I also think, in addition to figuring out how to scale it, you need to  figure out how you're going to communicate it. The website really has to give across  the impression with testimonials from well-known customers for whatever, that these are the best people.  In terms of studying the prices, one thing that we have consitently seen is, when  you ask a user to set their price in the marketplace, if you give them  guidance, if you say, "Based on what you said, here's what we recommend," or, "Here's  the range we recommend," 85, 90 percent of the users will do that. If you  want to move people towards a specific range because you want people that are that  quality level, you can probably do that.
+Emma: we did that. Our signup form says the average hourly rate is $70 per hour,  and it also says if you have you annual salary, that's about what your hourly  rate is. $100,000 per year is about $50 per hour.
+Yuri: When do you think you'll have the first external developer live, that's not the two  of you?
+Emma: We're working on basically building out invoicing right now, and so that'll be the next  week or two, probably.
+Yuri: Can you do it more manually in the beginning? Just so that you can see  someone who's not you ... Because you obviously don't have invoicing.
+Philip: Mm-hmm (affirmative).
+Emma: We've been doing this ourselves, and there's just a lot of moving parts. There's sending  contracts back and forth, there's setting up bank accounts, there's getting companies to pay. When  we talk to the potential contractors who want to be on the platform, some of  their biggest concerns are, if I'm only working 10 hours per week, how much time  does it take to ramp up? Do I need to talk with the customer, and  how long does it take until I get paid?
+Yuri: I would try and hack all of that way and just do it behind the  scenes manually right now, just to get the developers developing. Take all of the pressure  away from them so that they can just start interacting with a customer, and if  you need to manually process it do that. It's so important that someone who's not  you starts doing this on your perform.
+Emma: Mm-hmm (affirmative).
+Sam: Then when they do, for the first ones especially, I would be super involved, just  to learn what the issues are. It may be that people aren't sure they're allowed  to do this, and they need help looking at their current employment contracts. It may  be that people need training to know how to engage with a customer, and how  much they should communicate. There are all of these things, many of which will surprise  you, and your guesses on many will be wrong, and the way you find this  out is to just, for the first, let's say, 20 users, go sit with them.  Or at least go talk to them all the time.
+Yuri: I would at least think about it like, become their agent. If they were a  talent, and you were an agent for them, and you take care of everything for  them and answer all their questions.
+Sam: Then you can just start building that into the product. In our experience, almost every  time when the people think they know where the break points are going to be,  or what they need to teach their users, they're almost always wrong. But you find  it out really quickly. You don't need a giant sample set to start hearing the  common concerns people have at every stage in the process, and then you just knock  those off one at a time. That is a way I think you can differentiate  from other coding talent parketplaces that don't do this. If you can figure out, if  you can be the person that makes it so that people who want a little  extra income but don't know how to go be a financer learn, and if that  becomes your reputation, that'll be a great way to get the top talent in the  field.
+Yuri: One of the other, just an idea, which you may or may not want to  pursue, but if you want to be known as the experts in the field, see  if you can get any experts to actually use your platform through your network or  somewhere else. Or get someone who's well-known on a particular niche area and have them  sign up on your platform and do projects on your platform, if they're willing to.
+Philip: Yeah.
+Sam: What's your biggest problem right now?
+Emma: Us personally?
+Sam: The company.
+Yuri: In this stage it's often one and the same.
+Emma: Yeah.
+Philip: I think it's more just getting the machinery up. If we were to manually take  payments, my big concern would be that 10 months down the line I'm going to  have to manually calculate 1099s, things like that.
+Yuri: But you're not going to be 10 months down the line. You need to get  to the next two months.
+Philip: Yeah.
+Emma: I would say to go along with that, the reason we feel like we have  to have some sort of payment thing set up is because there's so many laws  around how you can pay people, and kind of the logistics of all that, and  paperwork that needs to be gone through. I think you're right, we need to do  those first couple ones to know what those are, but I think we're both apprehensive  of doing that.
+Sam: Is there not just some other startup that you can use that handles invoicing really  well? It is complicated.
+Yuri: Or just an accountant that can help you?
+Emma: Yeah. Do you want to Stripe(inaudible)
+Philip: Yeah. We're using Stripe Connect, which handles everything including the 1099s, but there's no turnkey  invoicing system built on top of that right now.
+Yuri: Yeah, I get that. I really do get that, but I still feel like it's  so ... I get that feeling as a developer all the time, where it's like,  if only I have this built I'd be ready to go. But it's so much  more important to actually find out if you can ... Even if you have the  platform built, there's the chance that people won't start using it, and you'll only know  that when you do the non-scalable things. That's one of the things that we drive  home almost every single office hour session, which is just, do the non-scalable things. Do  it manually. Don't worry about 10 months down the road. 10 months down the road  it's a new company. It will look very different than it is today. Today it's  so important to just do the non-scalable things.
+Sam: We're just talking about a small handful of users. You don't have to bring on  ... Everyone's like, "My problem is that if I do this non-scalable thing, 2,000 users  will sign up tomorrow ...
+Philip: You should be so lucky.
+Sam: Then we'll have to deal with them. That is not what's going to happen. It's  a slightly instinct to say that my big problem is that I haven't built this  one piece of the software yet, not that my biggest problem is how I'm going  to get those 2,000 users.
+Philip: What we're focusing on basically is the invoicing right now. It's not people logging in  or anything like that, it's just being able to take your credit card or bank  account details right now.
+Sam: Okay, well again, if that's the one thing you want to do, I would get  that to work .
+Yuri: if you think you'll have it live in a week ...
+Sam: My answer to that question about your biggest problem ... I'm not worried about the  fact that you'll be ability to get people that need developers to build something. There's  a lot of people that have an idea for an app. The thing that I  worry about is, every so often we've seen the idea of, "I'm going to get  these great developers to build stuff for other people," and it has been so hard  to actually do that, because the reasons that people have thought they're going to get  the developers, or the assumptions in, developer know how to do this well, have just  been so wrong. You still don't have ... You won't notice your own problems because  you've thought about this a lot. You may find out that invoicing doesn't even need  to built the way you think it needs to be built, because there's something fundamental  about the model that's going to change, but getting people you don't know, or you  don't know well, to build projects on a platform, I think that's a really important  step.
+Philip: I agree with that. I would just add in that the idea came from a  prior company where we didn't have the time to go hire people, and we started  hiring part-time people, people who were friends of friends, things like that. We started to  do a lot of first-hand research like that.
+Yuri: I think that's great. That's actually super important, because it means you have the pain  and you understand the pain. Sam and I are just kind of driving to the  same thing, which is, it's so critical to get someone who has nothing to do  with your previous business or your current core business, that wants to start using it.
+Philip: That makes sense.
+Sam: Any other issues you'd like to talk about? Any other questions?
+Emma: I don't think so. I think that's our main thing that we know we need  to do right now.
+Yuri: That's super exciting.
+Sam: How did you decide about 15 percent as the amount to charge?
+Emma: I think that's another thing we need to test out, but we feel like that's  a number that's not crazy for businesses to pay on top of something. My roommate  is a recruiter, and she gets 30 percent off of the top of all of  their salaries, but it's also enough for us to not have too many people to  start with, and be able to start testing things out.
+Yuri: Is that a price that you're going to charge on top of the hourly rate,  or is that just going to be blended into the hourly rate?
+Emma: Yeah. If somebody's $70 an hour, we'll add $15 dollars to that. Sorry, hundred dollars  an hour, we'll ad $15 to that.
+Sam: This is a good problem to have in the future: what will prevent people from,  once they work with someone they like, just hiring them off the platform and not  paying you?
+Emma: I think that's another thing that a lot of developers and designers have pointed out  to us, and I think we want to make sure that the tools inside of  the platform are keeping people there, so it's so easy for them to get work  and keep work, and they can do this on the side. Building internal tools that  allow people to work remotely and as contract workers will be another thing we're going  to focus on.
+Philip: That's another thing that works well about the short-term projects.
+Emma: Mm-hmm (affirmative), yeah.
+Yuri: All right.
+Sam: Very cool.
+Yuri: Great, thank you very much.
+Philip: Thanks.
+Sam: Thank you.
+Yuri: Nice to meet you.
+Philip: Thank you.
+Emma: Thank you.
+Yuri: Yeah.
+Sam: Format-wise, that was an experiment. Is that something you'd like us to do more of  in the class? Was that useful? More regular lectures? Yes? Yes? Some middle? Okay, we'll  do some more of that then. Great. Thank you very much. Thank you Yuri.
