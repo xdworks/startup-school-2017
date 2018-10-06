@@ -15,3 +15,6 @@
 * [Diversity & Inclusion at Early Stage Startups](13.md)
 * [How to Build and Manage Teams](14.md)
 * [How to Raise Money, and How to Succeed Long-Term](15.md)
+* [LiveQA-01](live-qa-1.md)
+* [LiveQA-02](live-qa-2.md)
+* [LiveQA-03](live-qa-3.md)
