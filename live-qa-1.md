@@ -1,8 +1,5 @@
 # Live Office Hours with Yuri Sagalov and Sam Altman
 
-#与Yuri Sagalov和Sam Altman一起办公时间
-
-
 Sam: Good afternoon. Today we're going to do something different. One of the things that we've  learned at Y Combinator is that one of the best ways to learn about startups  is to watch other startups get advice, and so we're going to do live office  hours, which we've done a few times before in this class, three or four times.  We'll try to do three companies each time. This is Yuri, also works at Y  Combinator, and going to do this with me, and we're going to just give advice  to three startups. You have to be very brave to do this, so I'm very  thankful for the startups that have agreed to do this. These are some of the  people that are taking the course online. We'll just get going. Do you want to  tell us ... First, do you want to introduce yourselves?
 Sarah: Yes. Does this work? I'm Sarah, and this is my co-founder Andrew. We're building Canny.  Canny helps teams collect and manage feedback from their users. Essentially what it is, is  teams can integrate our product into their website or mobile app, and that lows their  users to post and vote on feedback.
 
@@ -1021,4 +1018,3 @@ Sam: Format-wise, that was an experiment. Is that something you'd like us to do 
 
 
 山姆：从形式上讲，那是个实验。你想让我们在课堂上多做些什么吗？有用吗？更定期的讲座？是是中间的？好吧，那我们再做一些。太棒了非常感谢谢谢尤里。
-
